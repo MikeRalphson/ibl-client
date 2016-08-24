@@ -1,0 +1,126 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "categories": [
+    {
+      "id": "arts",
+      "title": "Arts",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "cbbc",
+      "title": "CBBC",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "cbeebies",
+      "title": "CBeebies",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "comedy",
+      "title": "Comedy",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "documentaries",
+      "title": "Documentaries",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "drama-and-soaps",
+      "title": "Drama & Soaps",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "entertainment",
+      "title": "Entertainment",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "films",
+      "title": "Films",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "food",
+      "title": "Food",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "history",
+      "title": "History",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "lifestyle",
+      "title": "Lifestyle",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "science-and-nature",
+      "title": "Science & Nature",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "sport",
+      "title": "Sport",
+      "type": "category",
+      "kind": "genre"
+    },
+    {
+      "id": "audio-described",
+      "title": "Audio Described",
+      "type": "category",
+      "kind": "accessibility"
+    },
+    {
+      "id": "signed",
+      "title": "Signed",
+      "type": "category",
+      "kind": "accessibility"
+    },
+    {
+      "id": "northern-ireland",
+      "title": "Northern Ireland",
+      "type": "category",
+      "kind": "national"
+    },
+    {
+      "id": "scotland",
+      "title": "Scotland",
+      "type": "category",
+      "kind": "national"
+    },
+    {
+      "id": "wales",
+      "title": "Wales",
+      "type": "category",
+      "kind": "national"
+    }
+  ]
+}

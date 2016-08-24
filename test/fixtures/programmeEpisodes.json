@@ -1,0 +1,829 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "programme_episodes": {
+    "page": 1,
+    "per_page": 10,
+    "count": 13,
+    "elements": [
+      {
+        "id": "b062x2tj",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The gang are set to bring Andy home, but Alice is determined to stop them.",
+          "medium": "Drama series. The gang have the second talisman and are set to bring Andy home, but Alice is determined to stop them.",
+          "large": "The gang have the second talisman and are set to bring Andy home, but Alice is determined to stop them.\n\nIn Negative Space, Andy and Bear are running for their lives as their world collapses around them. Andy fears he can't outrun the danger but Bear helps lead Andy to safety - all he has to do is believe.\n\nBack in the real world, Alice manages to freeze and destroy the altar and traps the gang in the school by freezing all the exits shut. However, they manage to escape and set off to search for the third magical place in Bremin where the Ley Lines intersect -it's their only way to get Andy home. They discover the third place is an abandoned warehouse, but it's on the other side of town and Alice is determined to stop them."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03918x3.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 12",
+        "release_date": "2 Dec 2015",
+        "release_date_time": "2015-12-02T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 12,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b062x2cm",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T13:45:00Z",
+              "end": "2016-01-04T13:45:00Z",
+              "remaining": {
+                "text": "Available until Mon 1:45pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "4:30pm 2 Dec 2015",
+            "credits_start": 1505
+          },
+          {
+            "type": "version",
+            "id": "p039xgmr",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T13:59:24Z",
+              "end": "2016-01-04T13:45:00Z",
+              "remaining": {
+                "text": "Available until Mon 1:45pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "2 Dec 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b061sxvm",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The gang make a last-ditch attempt to get their powers back and bring Andy home.",
+          "medium": "Drama series. Alice believes she has no time to waste to destroy the second talisman. The gang make a last-ditch attempt to get their powers back and bring Andy home.",
+          "large": "Phoebe and Alice take their new powers and slip into another part of the warehouse. Alice believes she has no time to waste, she needs to destroy the second talisman. Meanwhile, the now powerless gang tries to rally Felix's spirits, but he insists they leave him alone. As the gang leave, it is clear Felix has devised his own plan to rescue Andy. Felix asks Alice to swap him for Andy in Negative Space - he'll stop fighting her and it'll take the police off their case. Alice agrees and they head back to the altar. Will the rest of the gang realise what Felix is doing in time to stop him and still bring Andy home?"
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039tbvp.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 13",
+        "release_date": "6 Jul 2015",
+        "release_date_time": "2015-07-06T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 13,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b061sxvh",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T14:10:00Z",
+              "end": "2016-01-04T14:10:00Z",
+              "remaining": {
+                "text": "Available until Mon 2:10pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "6 Jul 2015",
+            "credits_start": 1483
+          },
+          {
+            "type": "version",
+            "id": "p03bmdgh",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T14:10:00Z",
+              "end": "2016-01-04T14:10:00Z",
+              "remaining": {
+                "text": "Available until Mon 2:10pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "6 Jul 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b062rrgd",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "Sam and Roland have swapped bodies. Will the gang realise the truth before it is too late?",
+          "medium": "Supernatural drama series. Sam and Roland have swapped bodies. Will the gang realise the truth before it is too late?",
+          "large": "As Felix, Jake, Ellen and Sam hurry away from Roland and the site of their memory-wiping spell, Phoebe appears and takes Alice's tablet back. As they continue on, they realise that Sam is acting unusual and is asking strange questions. \n\nMeanwhile, back in the bush, Roland examines his old hands, checks the name and date on his ID and realises that he has swapped bodies. Sam is actually stuck in Roland's body. He hurries off, desperate to find Felix. Will the gang realise the truth before it is too late?"
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p038bpsj.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 11",
+        "release_date": "2 Jul 2015",
+        "release_date_time": "2015-07-02T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 11,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b062rrg0",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T13:15:00Z",
+              "end": "2016-01-04T13:15:00Z",
+              "remaining": {
+                "text": "Available until Mon 1:15pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT27M",
+              "text": "27 mins"
+            },
+            "first_broadcast": "2 Jul 2015",
+            "credits_start": 1547
+          },
+          {
+            "type": "version",
+            "id": "p0394wvm",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T13:35:51Z",
+              "end": "2016-01-04T13:15:00Z",
+              "remaining": {
+                "text": "Available until Mon 1:15pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT27M",
+              "text": "27 mins"
+            },
+            "first_broadcast": "2 Jul 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b062nq4j",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The gang are in trouble when Detective Roland witnesses them perform magic.",
+          "medium": "Supernatural drama series. The gang are in trouble now detective Roland Murphy has witnessed them perform magic and, with no talisman, there is little they can do.",
+          "large": "Alice has destroyed the talisman and everyone is in shock - now they have absolutely no way of getting Andy back. Felix isn't happy either, but he couldn't let Alice hurt Oscar. While they debate this, a figure emerges from the bush. The gang panic and run, but Roland manages to corner Felix and Oscar, and demands answers. The others realise Roland has Felix and Oscar, and make their escape using Sam's wind power to shield them from Roland's view.\n\nThe gang now have two problems - no talisman and a cop who has seen magic and is convinced they are involved in Andy's disappearance."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p037r666.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 10",
+        "release_date": "1 Jul 2015",
+        "release_date_time": "2015-07-01T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 10,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b062nq4d",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T12:50:00Z",
+              "end": "2016-01-04T12:50:00Z",
+              "remaining": {
+                "text": "Available until Mon 12:50pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "1 Jul 2015"
+          },
+          {
+            "type": "version",
+            "id": "p038fkgc",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T13:09:43Z",
+              "end": "2016-01-04T12:50:00Z",
+              "remaining": {
+                "text": "Available until Mon 12:50pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "1 Jul 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b062kx59",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "Oscar becomes a weapon in Alice's plan to steal the talisman from the gang.",
+          "medium": "Supernatural drama series. Oscar becomes a weapon in Alice's plan to steal the talisman from the gang.",
+          "large": "Utilising Ellen's element-to-element power to contact Andy, the gang discover he is trapped in Negative Space due to Alice hacking Andy's spell. But Alice creates a fearsome storm to prevent further contact with him. Meanwhile, Alice lures Oscar to the river and offers to cast a spell to make him walk again. Oscar struggles to trust her but is tempted when Alice plays on his relationship with Felix. While casting a spell to make Oscar walk again, a magical transference between her and Oscar occurs. Oscar returns to Felix's house ready to confess, but before he can get the words out, Alice casts a spell and takes control of Oscar and forces him to try and steal the talisman."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p038bvxr.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 9",
+        "release_date": "30 Jun 2015",
+        "release_date_time": "2015-06-30T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 9,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b062kx28",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T12:25:00Z",
+              "end": "2016-01-04T12:25:00Z",
+              "remaining": {
+                "text": "Available until Mon 12:25pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "30 Jun 2015",
+            "credits_start": 1486
+          },
+          {
+            "type": "version",
+            "id": "p037sb6v",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T12:38:02Z",
+              "end": "2016-01-04T12:25:00Z",
+              "remaining": {
+                "text": "Available until Mon 12:25pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "30 Jun 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b062dzyn",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The talisman is missing and Jake and Felix are at loggerheads as to where it is.",
+          "medium": "Supernatural drama series. The talisman is missing and Jake and Felix are at loggerheads as to where it is. Could Saskia be to blame?",
+          "large": "Having sent Cop Gary back to his own universe, the gang are stunned to see Andy through a tear in the fabric of the universe. As they try to figure out what this means, they realise the talisman is gone and so is Saskia. Felix assumes Saskia stole it, but Jake leaps to her defence. Is Jake blinded by his feelings for Saskia? Andy is in Negative Space, trying to find a way home as he treks through what appears to be an endless space. Tears surround Andy which show him glimpses of home. But when he attempts to jump through one as a route home, a cloaked figure stops him."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p036fxfz.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 8",
+        "release_date": "29 Jun 2015",
+        "release_date_time": "2015-06-29T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 8,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b062dvx7",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T12:00:00Z",
+              "end": "2016-01-04T12:00:00Z",
+              "remaining": {
+                "text": "Available until Mon 12pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "29 Jun 2015",
+            "credits_start": 1502
+          },
+          {
+            "type": "version",
+            "id": "p0374cw4",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T12:14:15Z",
+              "end": "2016-01-04T12:00:00Z",
+              "remaining": {
+                "text": "Available until Mon 12pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "29 Jun 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b0622rrz",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "Felix, Sam, Jake and Ellen are back from the alternate universe.",
+          "medium": "Supernatural drama series. Felix, Sam, Jake and Ellen are back from the alternate universe, but Cop Gary has followed them through.",
+          "large": "Back home, an overwhelmed Ellen tries to process their journey to the other universe and refuses to talk to Felix. However when her power begins to manifest in cloud form, she has no choice but to ask him for help. Jake arrives home to learn that his dad is at the police station. He heads there with Saskia and is shocked to discover Cop Gary has followed them through the portal. Jake doesn't tell the gang, but Sam soon discovers that he's been keeping Cop Gary in hiding and urges him to tell Felix."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p0369l2q.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 7",
+        "release_date": "26 Jun 2015",
+        "release_date_time": "2015-06-26T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 7,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b0622rlb",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T11:30:00Z",
+              "end": "2016-01-04T11:30:00Z",
+              "remaining": {
+                "text": "Available until Mon 11:30am"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "26 Jun 2015",
+            "credits_start": 1542
+          },
+          {
+            "type": "version",
+            "id": "p036gr56",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-28T11:47:32Z",
+              "end": "2016-01-04T11:30:00Z",
+              "remaining": {
+                "text": "Available until Mon 11:30am"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "26 Jun 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b061zmgp",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The search for Andy takes Felix, Jake, Sam and Ellen back to the alternate universe.",
+          "medium": "Supernatural drama series. The search for Andy takes Felix, Jake, Sam and Ellen back to the alternate universe, but Felix fears the restoring demon isn't far behind them.",
+          "large": "Felix, Jake and Sam are back in the alternate universe. The question is, whether Andy is also here. With a disbelieving Ellen in tow, they begin their search. But they have to move fast, as Felix fears the restoring demon isn't far behind them. At Bremin High, Oscar is delighted to see Felix, but Ellen is totally baffled to see that he can walk. Next she spots alternate universe Ellen in all her colourful, pony-tailed, netballing glory! She rushes to her locker and discovers to her horror that she is Andy's girlfriend. Alternate universe Ellen follows her and Ellen has no choice but to accept the truth."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p0354b8m.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 6",
+        "release_date": "25 Jun 2015",
+        "release_date_time": "2015-06-25T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 6,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b061zmgk",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-27T13:55:00Z",
+              "end": "2016-01-03T13:55:00Z",
+              "remaining": {
+                "text": "Available until Sun 1:55pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "25 Jun 2015",
+            "credits_start": 1474
+          },
+          {
+            "type": "version",
+            "id": "p035vc30",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-27T14:08:08Z",
+              "end": "2016-01-03T13:55:00Z",
+              "remaining": {
+                "text": "Available until Sun 1:55pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "25 Jun 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b061vy71",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The boys perform a spell to find Andy but it backfires and lands Jake in serious trouble.",
+          "medium": "Supernatural drama series. With their new water element, the boys perform a spell to find Andy but it backfires, landing Jake in serious trouble.",
+          "large": "Supernatural drama series. The boys perform a tracking spell with Saskia to try to find Andy, which appears to work, until Ellen interrupts and the result is completely unexpected. Then Jake starts to feel unwell but pays little attention to it until he coughs up a strange stone and discovers a terracotta-coloured rash covering his feet.\n\nThe next morning, Felix and Sam find Jake suffering from the magical illness. They search for Saskia in the hope that they can cure Jake together with the talisman. Before they can do the spell, Roland arrives and orders them to accompany him on a scene reconstruction of the last sighting of Andy. During the walk through, Jake's condition worsens and he insists they take him to Nai Nai."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p034hykp.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 5",
+        "release_date": "24 Jun 2015",
+        "release_date_time": "2015-06-24T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 5,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b061vxvk",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-27T13:30:00Z",
+              "end": "2016-01-03T13:30:00Z",
+              "remaining": {
+                "text": "Available until Sun 1:30pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "24 Jun 2015",
+            "credits_start": 1499
+          },
+          {
+            "type": "version",
+            "id": "p035h5mq",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-27T13:42:49Z",
+              "end": "2016-01-03T13:30:00Z",
+              "remaining": {
+                "text": "Available until Sun 1:30pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT26M",
+              "text": "26 mins"
+            },
+            "first_broadcast": "24 Jun 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b061rq35",
+        "type": "episode",
+        "title": "Nowhere Boys",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "Felix, Jake and Sam have a new mission - find another water element.",
+          "medium": "Supernatural drama series. Felix, Jake and Sam have a new mission - find another water element. But it's not as easy as it sounds.",
+          "large": "At a loss after being beaten to Alice's Book of Shadows, the boys head back to Felix's house. En route, Felix theorises that if they find another water element, they should regain their ability to use magic. With a renewed drive to find Andy, the boys arrive at school on the hunt for the new element, but are stopped in their tracks by an impromptu locker search conducted by Roland. He's tightening the leash and is looking for anything to implicate the boys. They need to find the water element quickly. Meanwhile, Viv is convinced the boys are involved in her brother Andy's disappearance. She challenges Ellen and Mia to investigate whether Felix or Sam know anything about Andy's mysterious search history."
+        },
+        "tleo_id": "b0617bm2",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p0344qs0.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 2: Episode 4",
+        "release_date": "23 Jun 2015",
+        "release_date_time": "2015-06-23T00:00:00.000Z",
+        "parent_id": "b0617fvz",
+        "parent_position": 4,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b061rq2z",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-12-27T13:00:00Z",
+              "end": "2016-01-03T13:00:00Z",
+              "remaining": {
+                "text": "Available until Sun 1pm"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT27M",
+              "text": "27 mins"
+            },
+            "first_broadcast": "23 Jun 2015"
+          },
+          {
+            "type": "version",
+            "id": "p034m5kk",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2015-12-27T13:23:28Z",
+              "end": "2016-01-03T13:00:00Z",
+              "remaining": {
+                "text": "Available until Sun 1pm"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT27M",
+              "text": "27 mins"
+            },
+            "first_broadcast": "23 Jun 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": []
+      }
+    ]
+  }
+}

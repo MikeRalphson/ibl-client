@@ -1,0 +1,375 @@
+{
+    "version": "1.0",
+    "schema": "/ibl/v1/schema/ibl.json",
+    "group_episodes": {
+        "page": 1,
+        "per_page": 20,
+        "count": 4,
+        "group": {
+            "id": "b06vbmfq",
+            "type": "group",
+            "group_type": "tleo",
+            "stacked": true,
+            "images": {
+                "type": "image",
+                "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039tj4k.jpg",
+                "vertical": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039tj35.jpg"
+            },
+            "episode_sort_direction": "asc",
+            "related_links": [],
+            "title": "Dickensian",
+            "synopses": {
+                "small": "Drama set within the fictional realms of Charles Dickens' critically acclaimed novels.",
+                "medium": "Drama set within the fictional realms of Charles Dickens' critically acclaimed novels, bringing together some of his most iconic characters as their lives intertwine in 19th-century London."
+            },
+            "master_brand": {
+                "id": "bbc_one",
+                "ident_id": "p037ysj5",
+                "attribution": "bbc_one",
+                "titles": {
+                    "small": "BBC One",
+                    "medium": "BBC One",
+                    "large": "BBC One"
+                }
+            }
+        },
+        "elements": [{
+            "id": "b06tqv4t",
+            "type": "episode",
+            "title": "Dickensian",
+            "lexical_sort_letter": "D",
+            "synopses": {
+                "small": "Amelia and Arthur Havisham gather to hear the reading of their father's will.",
+                "medium": "Victorian drama. When Amelia and Arthur Havisham gather to hear the reading of their father's will, their lives are left in turmoil by its unexpected contents.",
+                "large": "It's Christmas Eve, and when Amelia and Arthur Havisham gather to hear the reading of their father's will, their lives are left in turmoil by its unexpected contents. Elsewhere, Jacob Marley collects debts from the sick and needy, showing his cruel and vicious nature. Has he given someone a motive for murder?"
+            },
+            "tleo_id": "b06vbmfq",
+            "tleo_type": "series",
+            "images": {
+                "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cg5n3.jpg",
+                "type": "image"
+            },
+            "related_links": [{
+                "id": "p03crh7s",
+                "type": "link",
+                "kind": "priority_content",
+                "title": "Meet the characters",
+                "url": "http://www.bbc.co.uk/programmes/profiles/1BV0vH2JsWR4hSsqdPpmwRk/cast-and-characters"
+            }],
+            "categories": [
+                "drama-and-soaps",
+                "drama-classic-and-period"
+            ],
+            "subtitle": "Episode 1",
+            "release_date": "26 Dec 2015",
+            "release_date_time": "2015-12-26T00:00:00.000Z",
+            "parent_id": "b06vbmfq",
+            "parent_position": 1,
+            "master_brand": {
+                "id": "bbc_one",
+                "ident_id": "p037ysj5",
+                "attribution": "bbc_one",
+                "titles": {
+                    "small": "BBC One",
+                    "medium": "BBC One",
+                    "large": "BBC One"
+                }
+            },
+            "versions": [{
+                "type": "version",
+                "id": "b06tqv3r",
+                "hd": true,
+                "download": true,
+                "availability": {
+                    "start": "2015-12-26T19:30:00Z",
+                    "end": "2016-01-25T19:30:00Z",
+                    "remaining": {
+                        "text": "Available for 26 days"
+                    }
+                },
+                "kind": "original",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "7pm 26 Dec 2015",
+                "credits_start": 1711
+            }, {
+                "type": "version",
+                "id": "p03d1cvc",
+                "hd": false,
+                "download": false,
+                "availability": {
+                    "start": "2015-12-26T19:46:13Z",
+                    "end": "2016-01-25T19:30:00Z",
+                    "remaining": {
+                        "text": "Available for 26 days"
+                    }
+                },
+                "kind": "audio-described",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "26 Dec 2015"
+            }],
+            "status": "available",
+            "signed": false,
+            "audio_described": true,
+            "labels": {
+                "editorial": "New Series"
+            },
+            "guidance": false,
+            "suppliers": []
+        }, {
+            "id": "b06tqvns",
+            "type": "episode",
+            "title": "Dickensian",
+            "lexical_sort_letter": "D",
+            "synopses": {
+                "small": "The news of Jacob Marley's murder filters through the Christmas day celebrations.",
+                "medium": "Victorian drama. The news of Jacob Marley's murder filters through the Christmas day celebrations, and Inspector Bucket begins his investigation.",
+                "large": "The news of Jacob Marley's murder filters through the Christmas day celebrations, and Inspector Bucket begins his investigation. At Satis House, Amelia Havisham's mysterious rescuer appears again."
+            },
+            "tleo_id": "b06vbmfq",
+            "tleo_type": "series",
+            "images": {
+                "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cgmmd.jpg",
+                "type": "image"
+            },
+            "related_links": [{
+                "id": "p03cwd02",
+                "type": "link",
+                "kind": "priority_content",
+                "title": "Meet the characters",
+                "url": "http://www.bbc.co.uk/programmes/profiles/1BV0vH2JsWR4hSsqdPpmwRk/cast-and-characters"
+            }],
+            "categories": [
+                "drama-and-soaps",
+                "drama-classic-and-period"
+            ],
+            "subtitle": "Episode 2",
+            "release_date": "26 Dec 2015",
+            "release_date_time": "2015-12-26T00:00:00.000Z",
+            "parent_id": "b06vbmfq",
+            "parent_position": 2,
+            "master_brand": {
+                "id": "bbc_one",
+                "ident_id": "p037ysj5",
+                "attribution": "bbc_one",
+                "titles": {
+                    "small": "BBC One",
+                    "medium": "BBC One",
+                    "large": "BBC One"
+                }
+            },
+            "versions": [{
+                "type": "version",
+                "id": "b06tqvmv",
+                "hd": true,
+                "download": true,
+                "availability": {
+                    "start": "2015-12-26T21:00:00Z",
+                    "end": "2016-01-25T21:00:00Z",
+                    "remaining": {
+                        "text": "Available for 26 days"
+                    }
+                },
+                "kind": "original",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "8:30pm 26 Dec 2015",
+                "credits_start": 1712
+            }, {
+                "type": "version",
+                "id": "p03d1h0d",
+                "hd": false,
+                "download": false,
+                "availability": {
+                    "start": "2015-12-26T21:24:59Z",
+                    "end": "2016-01-25T21:00:00Z",
+                    "remaining": {
+                        "text": "Available for 26 days"
+                    }
+                },
+                "kind": "audio-described",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "26 Dec 2015"
+            }],
+            "status": "available",
+            "signed": false,
+            "audio_described": true,
+            "guidance": false,
+            "suppliers": []
+        }, {
+            "id": "b06tqy01",
+            "type": "episode",
+            "title": "Dickensian",
+            "lexical_sort_letter": "D",
+            "synopses": {
+                "small": "Bucket goes to see his old enemy Fagin, convinced he is involved in Marley's murder.",
+                "medium": "Victorian drama. Bucket goes to see his old enemy Fagin, convinced he is involved in Marley's murder. Following a lead, he goes after Fagin's henchman Bill Sikes.",
+                "large": "Bucket goes to see his old enemy Fagin, convinced he is involved in Marley's murder. Following a lead, he goes after Fagin's henchman Bill Sikes - could his wooden cosh hold a valuable clue? Frances sees a way of scuppering her sister's plans."
+            },
+            "tleo_id": "b06vbmfq",
+            "tleo_type": "series",
+            "images": {
+                "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cg5vd.jpg",
+                "type": "image"
+            },
+            "related_links": [],
+            "categories": [
+                "drama-and-soaps",
+                "drama-classic-and-period"
+            ],
+            "subtitle": "Episode 3",
+            "release_date": "27 Dec 2015",
+            "release_date_time": "2015-12-27T00:00:00.000Z",
+            "parent_id": "b06vbmfq",
+            "parent_position": 3,
+            "master_brand": {
+                "id": "bbc_one",
+                "ident_id": "p037ysj5",
+                "attribution": "bbc_one",
+                "titles": {
+                    "small": "BBC One",
+                    "medium": "BBC One",
+                    "large": "BBC One"
+                }
+            },
+            "versions": [{
+                "type": "version",
+                "id": "b06tqxyf",
+                "hd": true,
+                "download": true,
+                "availability": {
+                    "start": "2015-12-27T20:00:00Z",
+                    "end": "2016-01-26T20:00:00Z",
+                    "remaining": {
+                        "text": "Available for 27 days"
+                    }
+                },
+                "kind": "original",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "7:30pm 27 Dec 2015",
+                "credits_start": 1714
+            }, {
+                "type": "version",
+                "id": "p03d2jxf",
+                "hd": false,
+                "download": false,
+                "availability": {
+                    "start": "2015-12-27T20:25:19Z",
+                    "end": "2016-01-26T20:00:00Z",
+                    "remaining": {
+                        "text": "Available for 27 days"
+                    }
+                },
+                "kind": "audio-described",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "27 Dec 2015"
+            }],
+            "status": "available",
+            "signed": false,
+            "audio_described": true,
+            "guidance": false,
+            "suppliers": []
+        }, {
+            "id": "b06tqztl",
+            "type": "episode",
+            "title": "Dickensian",
+            "lexical_sort_letter": "D",
+            "synopses": {
+                "small": "Frances Barbary rekindles an old friendship and allows herself to hope it might be more.",
+                "medium": "Victorian drama. At the Havisham New Year's party, Amelia is delighted to see her brother Arthur but perturbed by the arrival of an uninvited guest.",
+                "large": "At the Havisham New Year's party, Amelia is delighted to see her brother Arthur but perturbed by the arrival of an uninvited guest. Frances Barbary rekindles an old friendship and allows herself to hope it might be more."
+            },
+            "tleo_id": "b06vbmfq",
+            "tleo_type": "series",
+            "images": {
+                "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cg5zs.jpg",
+                "type": "image"
+            },
+            "related_links": [{
+                "id": "p03crnb9",
+                "type": "link",
+                "kind": "priority_content",
+                "title": "A cheat's guide to who's who",
+                "url": "http://www.bbc.co.uk/blogs/tv/entries/5480f8cd-bdd6-4772-95ca-c2fe47311bbe"
+            }],
+            "categories": [
+                "drama-and-soaps",
+                "drama-classic-and-period"
+            ],
+            "subtitle": "Episode 4",
+            "release_date": "27 Dec 2015",
+            "release_date_time": "2015-12-27T00:00:00.000Z",
+            "parent_id": "b06vbmfq",
+            "parent_position": 4,
+            "master_brand": {
+                "id": "bbc_one",
+                "ident_id": "p037ysj5",
+                "attribution": "bbc_one",
+                "titles": {
+                    "small": "BBC One",
+                    "medium": "BBC One",
+                    "large": "BBC One"
+                }
+            },
+            "versions": [{
+                "type": "version",
+                "id": "b06tqzsk",
+                "hd": true,
+                "download": true,
+                "availability": {
+                    "start": "2015-12-27T21:00:00Z",
+                    "end": "2016-01-26T21:00:00Z",
+                    "remaining": {
+                        "text": "Available for 27 days"
+                    }
+                },
+                "kind": "original",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "8:30pm 27 Dec 2015",
+                "credits_start": 1707
+            }, {
+                "type": "version",
+                "id": "p03d2l0v",
+                "hd": false,
+                "download": false,
+                "availability": {
+                    "start": "2015-12-27T21:21:41Z",
+                    "end": "2016-01-26T21:00:00Z",
+                    "remaining": {
+                        "text": "Available for 27 days"
+                    }
+                },
+                "kind": "audio-described",
+                "duration": {
+                    "value": "PT30M",
+                    "text": "30 mins"
+                },
+                "first_broadcast": "27 Dec 2015"
+            }],
+            "status": "available",
+            "signed": false,
+            "audio_described": true,
+            "guidance": false,
+            "suppliers": []
+        }]
+    }
+}

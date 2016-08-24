@@ -1,0 +1,1319 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "broadcasts": {
+    "count": 297,
+    "page": 1,
+    "per_page": 20,
+    "channel": {
+      "id": "cbbc",
+      "type": "channel",
+      "title": "CBBC",
+      "has_schedule": true,
+      "master_brand_id": "cbbc",
+      "on_air": true
+    },
+    "elements": [
+      {
+        "id": "p03dbzjm",
+        "scheduled_start": "2016-01-14T11:15:00.000Z",
+        "scheduled_end": "2016-01-14T11:35:00.000Z",
+        "duration": {
+          "value": "PT20M",
+          "text": "20 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b00v7v4w",
+          "type": "episode",
+          "title": "Bear Behaving Badly",
+          "lexical_sort_letter": "B",
+          "synopses": {
+            "small": "Crazy Keith tries out a new invention which gives Nev and Keith superhero powers.",
+            "medium": "Comedy series. On the day that Uncle Rupert is coming to tea, and Aunt Barbara wants the block of flats spotless, Crazy Keith tries out his new invention.",
+            "large": "On the day that Uncle Rupert is coming to tea, and Aunt Barbara wants the block of flats spotless, Crazy Keith tries out his new invention - a machine which gives Nev and Keith superhero powers."
+          },
+          "tleo_id": "b00g9blr",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01lcrtb.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 4: 1. Hero to Zero",
+          "release_date": "6 Oct 2010",
+          "release_date_time": "2010-10-06T00:00:00.000Z",
+          "parent_id": "b00v7v49",
+          "parent_position": 1,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T11:15:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjn",
+        "scheduled_start": "2016-01-14T11:35:00.000Z",
+        "scheduled_end": "2016-01-14T12:05:00.000Z",
+        "duration": {
+          "value": "PT30M",
+          "text": "30 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b0079bmt",
+          "type": "episode",
+          "title": "The Story of Tracy Beaker",
+          "lexical_sort_letter": "S",
+          "synopses": {
+            "small": "Enemies Tracy and Justine unite in the cause of girls who want to go on sleepovers.",
+            "medium": "Drama about a young girl and her life in a children's home, nicknamed the Dumping Ground. Enemies Tracy and Justine unite in the cause of girls who want to go on sleepovers.",
+            "large": "Drama about a young girl and her life in a children's home, nicknamed the Dumping Ground. Enemies Tracy and Justine unite in the cause of justice for girls who want to go on sleepovers. A temporary care worker in the Dumping Ground is a signal for mischief and mayhem."
+          },
+          "tleo_id": "b006mh1n",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01lymh8.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 1 Compilation: Episode 9",
+          "release_date": "5 Feb 2002",
+          "release_date_time": "2002-02-05T00:00:00.000Z",
+          "parent_id": "b007ll9q",
+          "parent_position": 9,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T08:25:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjp",
+        "scheduled_start": "2016-01-14T12:05:00.000Z",
+        "scheduled_end": "2016-01-14T12:30:00.000Z",
+        "duration": {
+          "value": "PT25M",
+          "text": "25 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b01qy20b",
+          "type": "episode",
+          "title": "M.I. High",
+          "images": {
+            "type": "image",
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02k4bxz.jpg"
+          },
+          "signed": false,
+          "status": "available",
+          "tleo_id": "b006v8z9",
+          "guidance": false,
+          "subtitle": "Series 6: 9. The Dark Wizard",
+          "synopses": {
+            "large": "A number of top secret scientific components have been stolen in recent weeks by a thief dressed as a character from a best-selling series of fantasy novels. The investigation sees the team infiltrate a fantasy convention only to discover the threat is far greater than they anticipated - someone wants to bring about the apocalyptic world of the fantasy novels in real life. But can Dan - Mr Practical - put his faith in the power of the imagination in order to defeat the Dark Wizard?",
+            "small": "The team infiltrate a fantasy convention.",
+            "medium": "Children's spy drama. A number of top secret scientific components are stolen by a thief dressed as a character from a best-selling series of fantasy novels."
+          },
+          "versions": [
+            {
+              "hd": true,
+              "id": "b01qy206",
+              "kind": "original",
+              "type": "version",
+              "download": true,
+              "duration": {
+                "text": "30 mins",
+                "value": "PT30M"
+              },
+              "availability": {
+                "end": "2016-02-13T09:50:00Z",
+                "start": "2016-01-14T09:50:00Z",
+                "remaining": {
+                  "text": "Available for 29 days"
+                }
+              },
+              "first_broadcast": "5:15pm 18 Feb 2013"
+            }
+          ],
+          "parent_id": "b01pz8nc",
+          "suppliers": [],
+          "tleo_type": "brand",
+          "categories": [
+            "cbbc"
+          ],
+          "master_brand": {
+            "id": "cbbc",
+            "titles": {
+              "large": "CBBC",
+              "small": "CBBC",
+              "medium": "CBBC"
+            },
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc"
+          },
+          "release_date": "18 Feb 2013",
+          "related_links": [
+            {
+              "id": "p015fzjq",
+              "url": "http://www.bbc.co.uk/cbbc/articles/bp-project-petra",
+              "kind": "priority_content",
+              "type": "link",
+              "title": "Blue Peter: Project Petra"
+            }
+          ],
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T12:05:00.000Z"
+          },
+          "audio_described": false,
+          "parent_position": 9,
+          "release_date_time": "2013-02-18T00:00:00.000Z",
+          "lexical_sort_letter": "M"
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjq",
+        "scheduled_start": "2016-01-14T12:30:00.000Z",
+        "scheduled_end": "2016-01-14T13:00:00.000Z",
+        "duration": {
+          "value": "PT30M",
+          "text": "30 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b01ncs2z",
+          "type": "episode",
+          "title": "Wolfblood",
+          "lexical_sort_letter": "W",
+          "synopses": {
+            "small": "Rhydian gets swayed by the lure of stolen goods.",
+            "medium": "Maddy Smith hides an extraordinary secret. Rhydian agrees to spend the full moon in the den with Maddy and her parents.",
+            "large": "Rhydian agrees to spend the full moon in the den with Maddy and her parents, but gets swayed by the lure of stolen goods."
+          },
+          "tleo_id": "b03b5gpv",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01hyjqv.jpg",
+            "type": "image"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 1: 9. A Quiet Night In",
+          "release_date": "8 Oct 2012",
+          "release_date_time": "2012-10-08T00:00:00.000Z",
+          "parent_id": "b01mtsh2",
+          "parent_position": 9,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T12:30:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjr",
+        "scheduled_start": "2016-01-14T13:00:00.000Z",
+        "scheduled_end": "2016-01-14T13:30:00.000Z",
+        "duration": {
+          "value": "PT30M",
+          "text": "30 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b0079cj3",
+          "type": "episode",
+          "title": "Young Dracula",
+          "images": {
+            "type": "image",
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01pw3xj.jpg",
+            "inherited_from": "series"
+          },
+          "signed": false,
+          "status": "available",
+          "tleo_id": "b006mhcn",
+          "guidance": false,
+          "subtitle": "Series 1: Episode 9",
+          "synopses": {
+            "large": "The Branagh house becomes overrun with cockroaches and the whole family are forced to stay in the castle - much to Count Dracula's delight; he's thirsty and Mrs Branagh looks tasty. Can the kids keep Mrs Branagh out of danger? Or is she about to become the latest addition to the undead club?",
+            "small": "The Branagh house is overrun with cockroaches and the family have to stay in the castle.",
+            "medium": "Children's drama following the misadventures of Count Dracula's children. The Branagh family are forced to stay in the castle - much to a thirsty Count Dracula's delight."
+          },
+          "versions": [
+            {
+              "hd": false,
+              "id": "b006mtq5",
+              "kind": "original",
+              "type": "version",
+              "download": true,
+              "duration": {
+                "text": "28 mins",
+                "value": "PT28M"
+              },
+              "availability": {
+                "end": "2016-02-13T09:20:00Z",
+                "start": "2016-01-14T09:20:00Z",
+                "remaining": {
+                  "text": "Available for 29 days"
+                }
+              },
+              "first_broadcast": "5pm 16 Nov 2006"
+            }
+          ],
+          "parent_id": "b006mhck",
+          "suppliers": [],
+          "tleo_type": "brand",
+          "categories": [
+            "cbbc"
+          ],
+          "master_brand": {
+            "id": "cbbc",
+            "titles": {
+              "large": "CBBC",
+              "small": "CBBC",
+              "medium": "CBBC"
+            },
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc"
+          },
+          "release_date": "16 Nov 2006",
+          "related_links": [
+            {
+              "id": "p0216jy2",
+              "url": "http://www.bbc.co.uk/cbbc/games/dust-by-dawn-game",
+              "kind": "priority_content",
+              "type": "link",
+              "title": "Play the Young Dracula game"
+            }
+          ],
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T13:00:00.000Z"
+          },
+          "audio_described": false,
+          "parent_position": 9,
+          "release_date_time": "2006-11-16T00:00:00.000Z",
+          "lexical_sort_letter": "Y"
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjs",
+        "scheduled_start": "2016-01-14T13:30:00.000Z",
+        "scheduled_end": "2016-01-14T14:00:00.000Z",
+        "duration": {
+          "value": "PT30M",
+          "text": "30 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b01hn9bc",
+          "type": "episode",
+          "title": "Deadly 60",
+          "images": {
+            "type": "image",
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01hfnz7.jpg"
+          },
+          "signed": true,
+          "status": "available",
+          "tleo_id": "b00t2kc7",
+          "guidance": false,
+          "subtitle": "Series 3: 9. South Africa 2",
+          "synopses": {
+            "large": "Steve and the crew are back in South Africa, one of the deadly capitals of the world. He's taken out by the fastest feet on the planet when he goes up against a couple of cheetahs in a 'friendly' game of football, before heading out to see them in action in the wild. He also meets a monkey snatching crowned eagle that uses its dagger-like rear talon to snatch up unsuspecting treetop primates and turns the latest camera technology on a trio of Africa's deadliest snakes; giving a unique view of the venom spitting cobra, the super-sensitive boomslang, and split-second striking puff adder.",
+            "small": "Steve and the crew are back in South Africa, one of the deadly capitals of the world.",
+            "medium": "Wildlife series. Steve and the crew are back in South Africa to turn the latest camera technology on a trio of deadly snakes and meet the predatory crowned eagle."
+          },
+          "versions": [
+            {
+              "hd": false,
+              "id": "b06wkbw4",
+              "kind": "signed",
+              "type": "version",
+              "download": true,
+              "duration": {
+                "text": "28 mins",
+                "value": "PT28M"
+              },
+              "availability": {
+                "end": "2016-02-13T10:15:00Z",
+                "start": "2016-01-14T10:15:00Z",
+                "remaining": {
+                  "text": "Available for 29 days"
+                }
+              },
+              "first_broadcast": "10 May 2012"
+            }
+          ],
+          "parent_id": "b01fd783",
+          "suppliers": [
+            {
+              "id": "bbc_store",
+              "title": "BBC Store"
+            }
+          ],
+          "tleo_type": "brand",
+          "categories": [
+            "cbbc"
+          ],
+          "master_brand": {
+            "id": "cbbc",
+            "titles": {
+              "large": "CBBC",
+              "small": "CBBC",
+              "medium": "CBBC"
+            },
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc"
+          },
+          "release_date": "10 May 2012",
+          "related_links": [
+            {
+              "id": "p01khsf7",
+              "url": "http://www.bbc.co.uk/cbbc/games/deadly-defenders",
+              "kind": "priority_content",
+              "type": "link",
+              "title": "Play the game"
+            }
+          ],
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T13:30:00.000Z"
+          },
+          "audio_described": false,
+          "parent_position": 9,
+          "release_date_time": "2012-05-10T00:00:00.000Z",
+          "lexical_sort_letter": "D"
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjt",
+        "scheduled_start": "2016-01-14T14:00:00.000Z",
+        "scheduled_end": "2016-01-14T14:25:00.000Z",
+        "duration": {
+          "value": "PT25M",
+          "text": "25 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b036pqch",
+          "type": "episode",
+          "title": "Disaster Chefs",
+          "images": {
+            "type": "image",
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01jz561.jpg"
+          },
+          "signed": true,
+          "status": "available",
+          "tleo_id": "b036g043",
+          "guidance": false,
+          "subtitle": "Episode 9",
+          "synopses": {
+            "large": "Food fanatic Stefan Gates is on a one-man mission to try to stop the UK's mums and dads ruining mealtimes, but he has just 24 hours to teach Disaster Chef parents to cook a restaurant-standard, two-course meal in a professional kitchen for three mystery judges - including actor and CBBC presenter Joe Swash.\n\nCharley from Ruislip has had enough of her mum Michelle's burnt oven pizzas and microwave meals. She loves Italian food, so Stefan conjures up a magnificent menu of fresh tortellini pasta followed by a rack of lamb with pesto crust. Will the crash course in cooking help Michelle to the two yumms she'll need from the mystery judges in order to pass the challenge? Stefan's reputation's on the line, so it's going to get hot in the kitchen.",
+            "small": "Michelle from Ruislip attempts fresh pasta followed by a rack of lamb with pesto crust.",
+            "medium": "Stefan Gates teaches parents to cook a restaurant-standard, two-course meal in 24 hours. Michelle from Ruislip attempts fresh pasta followed by a rack of lamb with pesto crust."
+          },
+          "versions": [
+            {
+              "hd": false,
+              "id": "b03dz9yd",
+              "kind": "signed",
+              "type": "version",
+              "download": true,
+              "duration": {
+                "text": "29 mins",
+                "value": "PT29M"
+              },
+              "availability": {
+                "end": "2016-02-13T10:45:00Z",
+                "start": "2016-01-14T10:45:00Z",
+                "remaining": {
+                  "text": "Available for 29 days"
+                }
+              },
+              "first_broadcast": "4 Jul 2013"
+            }
+          ],
+          "parent_id": "b036g043",
+          "suppliers": [],
+          "tleo_type": "series",
+          "categories": [
+            "cbbc"
+          ],
+          "master_brand": {
+            "id": "cbbc",
+            "titles": {
+              "large": "CBBC",
+              "small": "CBBC",
+              "medium": "CBBC"
+            },
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc"
+          },
+          "release_date": "4 Jul 2013",
+          "related_links": [],
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T14:00:00.000Z"
+          },
+          "audio_described": false,
+          "parent_position": 9,
+          "release_date_time": "2013-07-04T00:00:00.000Z",
+          "lexical_sort_letter": "D"
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjv",
+        "scheduled_start": "2016-01-14T14:25:00.000Z",
+        "scheduled_end": "2016-01-14T14:50:00.000Z",
+        "duration": {
+          "value": "PT25M",
+          "text": "25 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b00v7v4w",
+          "type": "episode",
+          "title": "Bear Behaving Badly",
+          "lexical_sort_letter": "B",
+          "synopses": {
+            "small": "Crazy Keith tries out a new invention which gives Nev and Keith superhero powers.",
+            "medium": "Comedy series. On the day that Uncle Rupert is coming to tea, and Aunt Barbara wants the block of flats spotless, Crazy Keith tries out his new invention.",
+            "large": "On the day that Uncle Rupert is coming to tea, and Aunt Barbara wants the block of flats spotless, Crazy Keith tries out his new invention - a machine which gives Nev and Keith superhero powers."
+          },
+          "tleo_id": "b00g9blr",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01lcrtb.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 4: 1. Hero to Zero",
+          "release_date": "6 Oct 2010",
+          "release_date_time": "2010-10-06T00:00:00.000Z",
+          "parent_id": "b00v7v49",
+          "parent_position": 1,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T11:15:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjx",
+        "scheduled_start": "2016-01-14T14:50:00.000Z",
+        "scheduled_end": "2016-01-14T14:55:00.000Z",
+        "duration": {
+          "value": "PT5M",
+          "text": "5 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b008b7ch",
+          "type": "episode",
+          "title": "Shaun the Sheep",
+          "lexical_sort_letter": "S",
+          "synopses": {
+            "small": "When the flock go on a day trip, Shaun must convince the Farmer that nothing is amiss.",
+            "medium": "Children's animation. When the flock nip off on the bus to the local funfair, it is up to Shaun to distract the Farmer until Bitzer can round up the lost sheep."
+          },
+          "tleo_id": "b006z39g",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01lyxpp.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 1: 21. Sheep on the Loose",
+          "release_date": "3 Sep 2007",
+          "release_date_time": "2007-09-03T00:00:00.000Z",
+          "parent_id": "b006z39t",
+          "parent_position": 21,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T14:50:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzjy",
+        "scheduled_start": "2016-01-14T14:55:00.000Z",
+        "scheduled_end": "2016-01-14T15:10:00.000Z",
+        "duration": {
+          "value": "PT15M",
+          "text": "15 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b01dlmft",
+          "type": "episode",
+          "title": "League of Super Evil",
+          "lexical_sort_letter": "L",
+          "synopses": {
+            "small": "Voltar and the rest of LOSE get lost in the real nightmares of Metrotownians.",
+            "medium": "Animation. Frogg builds a machine that will allow Voltar and LOSE to travel into Von Pantaloon's dreams to exact sweet revenge. But they get lost along the way!",
+            "large": "When Voltar suffers a humiliating defeat at the hands of Dr Boddlington Von Pantaloon III, Von Pantaloon taunts Voltar by sarcastically telling him he could only defeat him 'in your dreams!' Voltar takes the taunt a little too literally and gets Frogg to build him a machine that will allow Voltar (and the rest of LOSE) to travel into Von Pantaloon's dreams to exact sweet revenge on his nemesis. But LOSE get lost along the way and find themselves trapped in various Metrotownians' dreams (Skullossus, General Sergeant, the Cougar and Doomageddon)."
+          },
+          "tleo_id": "b00vjksw",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01m1v0z.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 3: 9. In Your Dreams",
+          "release_date": "15 Mar 2012",
+          "release_date_time": "2012-03-15T00:00:00.000Z",
+          "parent_id": "b01dd3zh",
+          "parent_position": 9,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T14:55:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk0",
+        "scheduled_start": "2016-01-14T15:10:00.000Z",
+        "scheduled_end": "2016-01-14T15:20:00.000Z",
+        "duration": {
+          "value": "PT10M",
+          "text": "10 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b04vx3y6",
+          "type": "episode",
+          "title": "Sidekick",
+          "lexical_sort_letter": "S",
+          "synopses": {
+            "small": "Maxum Mom takes Eric underwear shopping and gets thrown into prison.",
+            "medium": "Animated series following four friends as they train at the Academy for Aspiring Sidekicks. Maxum Mom takes Eric underwear shopping and gets thrown into prison.",
+            "large": "Animated series following four friends as they train at the Academy for Aspiring Sidekicks. Maxum Mom takes Eric underwear shopping and gets thrown into prison!"
+          },
+          "tleo_id": "b04gyy4t",
+          "tleo_type": "series",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02dzq0r.jpg",
+            "type": "image"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "47. Shopping Spree",
+          "release_date": "16 Dec 2014",
+          "release_date_time": "2014-12-16T00:00:00.000Z",
+          "parent_id": "b04gyy4t",
+          "parent_position": 47,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T15:10:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk1",
+        "scheduled_start": "2016-01-14T15:20:00.000Z",
+        "scheduled_end": "2016-01-14T15:35:00.000Z",
+        "duration": {
+          "value": "PT15M",
+          "text": "15 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b03kkc3c",
+          "type": "episode",
+          "title": "Dennis the Menace and Gnasher",
+          "lexical_sort_letter": "D",
+          "synopses": {
+            "small": "Dennis and Walter must each live the other's life for a day.",
+            "medium": "After Dennis and Walter mess up a science experiment, De Testa decides the boys must each live the other's life for a day.",
+            "large": "After Dennis and Walter mess up a science experiment, De Testa decides the boys would benefit from a bit of mutual understanding and issues the rivals with a formidable challenge, to each live the other's life for a day. If they fail the experiment, they will be teamed up for everything forever! Dennis must teach Walter how to menace - and learn how to behave himself - in record time, in order to avoid a fate worse than detention."
+          },
+          "tleo_id": "b03727vg",
+          "tleo_type": "series",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01l9hsm.jpg",
+            "type": "image",
+            "inherited_from": "series"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "35. Menace Swap",
+          "release_date": "28 Nov 2013",
+          "release_date_time": "2013-11-28T00:00:00.000Z",
+          "parent_id": "b03727vg",
+          "parent_position": 35,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T15:20:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk2",
+        "scheduled_start": "2016-01-14T15:35:00.000Z",
+        "scheduled_end": "2016-01-14T15:55:00.000Z",
+        "duration": {
+          "value": "PT20M",
+          "text": "20 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b01qb1sm",
+          "type": "episode",
+          "title": "Just Kidding",
+          "lexical_sort_letter": "J",
+          "synopses": {
+            "small": "Kids concoct the most preposterous pranks to play on unsuspecting adults.",
+            "medium": "Comedy show that puts kids in the driver's seat and lets them loose to concoct the most preposterous pranks. And who better to fool than unsuspecting adults?"
+          },
+          "tleo_id": "b03thwh8",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01l9cd7.jpg",
+            "type": "image",
+            "inherited_from": "series"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 1: Episode 4",
+          "release_date": "24 Jan 2013",
+          "release_date_time": "2013-01-24T00:00:00.000Z",
+          "parent_id": "b01qcs0h",
+          "parent_position": 4,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T15:35:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk3",
+        "scheduled_start": "2016-01-14T15:55:00.000Z",
+        "scheduled_end": "2016-01-14T16:20:00.000Z",
+        "duration": {
+          "value": "PT25M",
+          "text": "25 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b050nnkn",
+          "type": "episode",
+          "title": "The Next Step",
+          "lexical_sort_letter": "N",
+          "synopses": {
+            "small": "The A-Troupe is selected to perform in a music video for the band Brighter Brightest.",
+            "medium": "Reality-style drama following a group of dancers. The A-Troupe is selected to perform in a music video but becomes divided over Emily's routine.",
+            "large": "The A-Troupe is selected to perform in a music video for the band Brighter Brightest. However, the dancers become divided over the routine that Emily has choreographed."
+          },
+          "tleo_id": "b05qvqn5",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01wmh96.jpg",
+            "type": "image",
+            "inherited_from": "series"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 1: 9. Video Killed the Radio Star",
+          "release_date": "5 May 2014",
+          "release_date_time": "2014-05-05T00:00:00.000Z",
+          "parent_id": "b040yvz9",
+          "parent_position": 9,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T15:55:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk4",
+        "scheduled_start": "2016-01-14T16:20:00.000Z",
+        "scheduled_end": "2016-01-14T16:30:00.000Z",
+        "duration": {
+          "value": "PT10M",
+          "text": "10 mins"
+        },
+        "blanked": false,
+        "repeat": false,
+        "episode": {
+          "id": "b06v9ps4",
+          "type": "episode",
+          "title": "Newsround",
+          "lexical_sort_letter": "N",
+          "synopses": {
+            "small": "Topical news magazine for children.",
+            "medium": "Topical news magazine for children."
+          },
+          "tleo_id": "b006mdbc",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p028krs8.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "14/01/2016",
+          "release_date": "14 Jan 2016",
+          "release_date_time": "2016-01-14T00:00:00.000Z",
+          "parent_id": "b006mdbc",
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T16:20:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk5",
+        "scheduled_start": "2016-01-14T16:30:00.000Z",
+        "scheduled_end": "2016-01-14T17:00:00.000Z",
+        "duration": {
+          "value": "PT30M",
+          "text": "30 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b06pmnxw",
+          "type": "episode",
+          "title": "Absolute Genius Super Tech with Dick & Dom",
+          "lexical_sort_letter": "A",
+          "synopses": {
+            "small": "Dick and Dom reveal three geniuses whose ideas have changed the way we play.",
+            "medium": "Dick and Dom reveal three geniuses whose ideas have changed the way we play. They get to ride a real-life hoverboard and drive a full-sized remote-controlled car.",
+            "large": "Dick and Dom get to play with the coolest toys with tech from both the past and the future. The boys reveal three geniuses whose ideas have changed the way we play and get to ride a real-life hoverboard and drive a full-sized remote-controlled car!"
+          },
+          "tleo_id": "b06n7417",
+          "tleo_type": "series",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p0370jlm.jpg",
+            "type": "image"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "3. Techno Toys",
+          "release_date": "11 Nov 2015",
+          "release_date_time": "2015-11-11T00:00:00.000Z",
+          "parent_id": "b06n7417",
+          "parent_position": 3,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T16:30:00.000Z"
+          },
+          "suppliers": [
+            {
+              "id": "bbc_store",
+              "title": "BBC Store"
+            }
+          ]
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk6",
+        "scheduled_start": "2016-01-14T17:00:00.000Z",
+        "scheduled_end": "2016-01-14T17:30:00.000Z",
+        "duration": {
+          "value": "PT30M",
+          "text": "30 mins"
+        },
+        "blanked": false,
+        "repeat": false,
+        "episode": {
+          "id": "b06wpy8x",
+          "type": "episode",
+          "title": "Blue Peter",
+          "lexical_sort_letter": "B",
+          "synopses": {
+            "small": "Lindsey gets an exclusive look into the depths of the deepest sewage tunnel in the UK.",
+            "medium": "Barney visits Blackpool and gets up close to some rays that are currently under threat in the wild. Lindsey gets a look into the depths of the deepest sewage tunnel in the UK.",
+            "large": "Barney visits Blackpool and gets up close to some rays that are currently under threat in the wild. Lindsey gets an exclusive look into the depths of the deepest sewage tunnel in the UK. Also, there is more fun from the team in the studio."
+          },
+          "tleo_id": "b006md2v",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01zk1zk.jpg",
+            "type": "image",
+            "inherited_from": "brand"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "The Next Step Live!",
+          "release_date": "14 Jan 2016",
+          "release_date_time": "2016-01-14T00:00:00.000Z",
+          "parent_id": "b006md2v",
+          "parent_position": 41,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T17:00:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk7",
+        "scheduled_start": "2016-01-14T17:30:00.000Z",
+        "scheduled_end": "2016-01-14T17:40:00.000Z",
+        "duration": {
+          "value": "PT10M",
+          "text": "10 mins"
+        },
+        "blanked": false,
+        "repeat": false,
+        "episode": {
+          "id": "b06wpy8z",
+          "type": "episode",
+          "title": "DIXI",
+          "lexical_sort_letter": "D",
+          "synopses": {
+            "small": "Shari desperately tries to find a way in to the prom tech rehearsal.",
+            "medium": "Mystery drama series. Convinced that the Dixi Murderer is part of the prom committee, Shari desperately tries to find a way in to the prom tech rehearsal.",
+            "large": "Mystery drama series. Convinced that the Dixi Murderer is part of the prom committee, Shari desperately tries to find a way in to the prom tech rehearsal. But what she finds there turns her world upside down."
+          },
+          "tleo_id": "b06yn6t5",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dccqg.jpg",
+            "type": "image"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 1: 8. Shadow of a Doubt",
+          "release_date": "14 Jan 2016",
+          "release_date_time": "2016-01-14T00:00:00.000Z",
+          "parent_id": "b06vtbmq",
+          "parent_position": 8,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T17:30:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03dbzk8",
+        "scheduled_start": "2016-01-14T17:40:00.000Z",
+        "scheduled_end": "2016-01-14T18:15:00.000Z",
+        "duration": {
+          "value": "PT35M",
+          "text": "35 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b03tz6pw",
+          "type": "episode",
+          "title": "The Dumping Ground",
+          "lexical_sort_letter": "D",
+          "synopses": {
+            "small": "Expectations are high when Tyler's mum comes for a visit.",
+            "medium": "Drama series. Expectations are high when Tyler's mum comes for a visit."
+          },
+          "tleo_id": "b03ps789",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01rr011.jpg",
+            "type": "image"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Series 2: 6. Holding On",
+          "release_date": "7 Feb 2014",
+          "release_date_time": "2014-02-07T00:00:00.000Z",
+          "parent_id": "b03ps787",
+          "parent_position": 6,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-14T17:40:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      },
+      {
+        "id": "p03fg62h",
+        "scheduled_start": "2016-01-14T18:15:00.000Z",
+        "scheduled_end": "2016-01-14T18:35:00.000Z",
+        "duration": {
+          "value": "PT20M",
+          "text": "20 mins"
+        },
+        "blanked": false,
+        "repeat": true,
+        "episode": {
+          "id": "b03967bx",
+          "type": "episode",
+          "title": "Dragons",
+          "lexical_sort_letter": "D",
+          "synopses": {
+            "small": "Hiccup adopts a baby dragon that appears orphaned.",
+            "medium": "Animation based on How to Train Your Dragon. When Hiccup adopts a baby dragon that appears orphaned, Toothless becomes jealous of it.",
+            "large": "Animation following on directly from How to Train Your Dragon, continuing the adventures of Hiccup and his dragon Toothless. When Hiccup adopts a baby dragon that appears orphaned, Toothless becomes jealous of it. Toothless tries to make Hiccup see that all is not what it seems."
+          },
+          "tleo_id": "b03bxtqk",
+          "tleo_type": "brand",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01k16fg.jpg",
+            "type": "image"
+          },
+          "related_links": [],
+          "categories": [
+            "cbbc"
+          ],
+          "subtitle": "Riders of Berk: 4. The Terrible Twos",
+          "release_date": "16 Mar 2013",
+          "release_date_time": "2013-03-16T00:00:00.000Z",
+          "parent_id": "b01r3wtk",
+          "parent_position": 4,
+          "master_brand": {
+            "id": "cbbc",
+            "ident_id": "p00pvbn6",
+            "attribution": "cbbc",
+            "titles": {
+              "small": "CBBC",
+              "medium": "CBBC",
+              "large": "CBBC"
+            }
+          },
+          "versions": [],
+          "status": "unavailable",
+          "signed": false,
+          "audio_described": false,
+          "guidance": false,
+          "next_broadcast": {
+            "channel_title": "CBBC",
+            "scheduled_start": "2016-01-18T18:15:00.000Z"
+          },
+          "suppliers": []
+        },
+        "channel_title": "CBBC",
+        "type": "broadcast"
+      }
+    ]
+  }
+}

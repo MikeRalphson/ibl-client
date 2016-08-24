@@ -1,0 +1,83 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "channels": [
+    {
+      "id": "bbc_one_london",
+      "type": "channel",
+      "title": "BBC One",
+      "has_schedule": true,
+      "master_brand_id": "bbc_one"
+    },
+    {
+      "id": "bbc_two_england",
+      "type": "channel",
+      "title": "BBC Two",
+      "has_schedule": true,
+      "master_brand_id": "bbc_two"
+    },
+    {
+      "id": "bbc_three",
+      "type": "channel",
+      "title": "BBC Three",
+      "has_schedule": true,
+      "master_brand_id": "bbc_three"
+    },
+    {
+      "id": "bbc_four",
+      "type": "channel",
+      "title": "BBC Four",
+      "has_schedule": true,
+      "master_brand_id": "bbc_four"
+    },
+    {
+      "id": "bbc_radio_one",
+      "type": "channel",
+      "title": "BBC Radio 1",
+      "has_schedule": false,
+      "master_brand_id": "bbc_radio_one"
+    },
+    {
+      "id": "cbbc",
+      "type": "channel",
+      "title": "CBBC",
+      "has_schedule": true,
+      "master_brand_id": "cbbc"
+    },
+    {
+      "id": "cbeebies",
+      "type": "channel",
+      "title": "CBeebies",
+      "has_schedule": true,
+      "master_brand_id": "cbeebies"
+    },
+    {
+      "id": "bbc_news24",
+      "type": "channel",
+      "title": "BBC News",
+      "has_schedule": true,
+      "master_brand_id": "bbc_news24"
+    },
+    {
+      "id": "bbc_parliament",
+      "type": "channel",
+      "title": "BBC Parliament",
+      "has_schedule": true,
+      "master_brand_id": "bbc_parliament"
+    },
+    {
+      "id": "bbc_alba",
+      "type": "channel",
+      "title": "BBC ALBA",
+      "has_schedule": true,
+      "master_brand_id": "bbc_alba"
+    },
+    {
+      "id": "s4cpbs",
+      "type": "channel",
+      "title": "S4C",
+      "has_schedule": true,
+      "master_brand_id": "s4cpbs"
+    }
+  ]
+}

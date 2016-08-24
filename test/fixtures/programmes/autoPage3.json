@@ -1,0 +1,131 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "category_programmes": {
+    "count": 5,
+    "category": {
+      "id": "wales",
+      "title": "Wales",
+      "type": "category",
+      "kind": "national",
+      "child_episode_count": 711
+    },
+    "page": 3,
+    "per_page": 2,
+    "elements": [
+      {
+        "id": "p02b4jth",
+        "tleo_type": "series",
+        "type": "programme_large",
+        "title": "Abadas",
+        "synopses": {
+          "small": "Rhaglen animeiddio i blant ifanc yn canolbwyntio ar gyflwyno geiriau newydd. Animation ...",
+          "medium": "Rhaglen animeiddio i blant ifanc yn canolbwyntio ar gyflwyno geiriau newydd. Animation series for young children concentrating on introducing vocabulary.",
+          "large": "Rhaglen animeiddio i blant ifanc yn canolbwyntio ar gyflwyno geiriau newydd. Animation series for young children concentrating on introducing vocabulary."
+        },
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02c72z7.jpg",
+          "type": "image"
+        },
+        "lexical_sort_letter": "A",
+        "master_brand": {
+          "id": "s4cpbs",
+          "attribution": "s4c",
+          "titles": {
+            "small": "S4C",
+            "medium": "S4C",
+            "large": "S4C"
+          }
+        },
+        "suppliers": [],
+        "categories": [
+          "wales"
+        ],
+        "status": "available",
+        "count": 7,
+        "initial_children": [
+          {
+            "id": "p02cjx4j",
+            "type": "episode",
+            "title": "Abadas",
+            "lexical_sort_letter": "A",
+            "synopses": {
+              "small": "Mae angen dau air i ddisgrifio'r ddelwedd. Tybed pwy gaiff ei ddewis i fynd i chwilio a...",
+              "medium": "Mae angen dau air i ddisgrifio'r ddelwedd. Tybed pwy gaiff ei ddewis i fynd i chwilio am yr 'esgid rholio', Seren, Hari neu Ela? What will the word be and who will go on the adv...",
+              "large": "Mae angen dau air i ddisgrifio'r ddelwedd. Tybed pwy gaiff ei ddewis i fynd i chwilio am yr 'esgid rholio', Seren, Hari neu Ela? What will the word be and who will go on the adventure?"
+            },
+            "tleo_id": "p02b4jth",
+            "tleo_type": "series",
+            "images": {
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02c72z7.jpg",
+              "type": "image",
+              "inherited_from": "series"
+            },
+            "related_links": [],
+            "categories": [
+              "wales"
+            ],
+            "subtitle": "Sglefr Rolio",
+            "release_date": "14 Nov 2011",
+            "release_date_time": "2011-11-14T00:00:00.000Z",
+            "parent_id": "p02b4jth",
+            "master_brand": {
+              "id": "s4cpbs",
+              "attribution": "s4c",
+              "titles": {
+                "small": "S4C",
+                "medium": "S4C",
+                "large": "S4C"
+              }
+            },
+            "versions": [
+              {
+                "type": "version",
+                "id": "p03d35l0",
+                "hd": false,
+                "download": true,
+                "availability": {
+                  "start": "2016-01-05T10:30:00Z",
+                  "end": "2016-02-04T10:30:00Z",
+                  "remaining": {
+                    "text": "Available for 29 days"
+                  }
+                },
+                "kind": "technical-replacement",
+                "duration": {
+                  "value": "PT11M1S",
+                  "text": "11 mins"
+                },
+                "first_broadcast": "14 Nov 2011"
+              },
+              {
+                "type": "version",
+                "id": "p03d35l0",
+                "hd": false,
+                "download": true,
+                "availability": {
+                  "start": "2016-01-05T10:30:00Z",
+                  "end": "2016-02-04T10:30:00Z",
+                  "remaining": {
+                    "text": "Available for 29 days"
+                  }
+                },
+                "kind": "original",
+                "duration": {
+                  "value": "PT11M1S",
+                  "text": "11 mins"
+                },
+                "first_broadcast": "14 Nov 2011"
+              }
+            ],
+            "status": "available",
+            "signed": false,
+            "audio_described": false,
+            "guidance": false,
+            "suppliers": []
+          }
+        ]
+      }
+    ]
+  }
+}

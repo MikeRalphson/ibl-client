@@ -1,0 +1,233 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "category_programmes": {
+    "count": 2,
+    "category": {
+      "id": "wales",
+      "title": "Wales",
+      "type": "category",
+      "kind": "national",
+      "child_episode_count": 712
+    },
+    "page": 1,
+    "per_page": 2,
+    "elements": [
+      {
+        "id": "p036c88d",
+        "tleo_type": "brand",
+        "type": "programme_large",
+        "title": "35 Diwrnod",
+        "synopses": {
+          "small": "Drama ddirgelwch sy'n rhoi bywyd yn swbwrbia dan y chwyddwydr. Mystery drama series, wh...",
+          "medium": "Drama ddirgelwch sy'n rhoi bywyd yn swbwrbia dan y chwyddwydr. Mystery drama series, where a suburban close is the scene of a murder.",
+          "large": "Drama ddirgelwch sy'n rhoi bywyd yn swbwrbia dan y chwyddwydr. Mystery drama series, where a suburban close is the scene of a murder."
+        },
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02bnq7y.jpg",
+          "type": "image",
+          "inherited_from": "master_brand"
+        },
+        "lexical_sort_letter": "0-9",
+        "master_brand": {
+          "id": "s4cpbs",
+          "attribution": "s4c",
+          "titles": {
+            "small": "S4C",
+            "medium": "S4C",
+            "large": "S4C"
+          }
+        },
+        "suppliers": [],
+        "categories": [
+          "wales"
+        ],
+        "status": "available",
+        "count": 4,
+        "initial_children": [
+          {
+            "id": "p03c0n0w",
+            "type": "episode",
+            "title": "35 Diwrnod",
+            "lexical_sort_letter": "0-9",
+            "synopses": {
+              "small": "Beth mae Martin yn penderfynu ei wneud gyda'r corff marw yn ei fflat? What does Martin ...",
+              "medium": "Beth mae Martin yn penderfynu ei wneud gyda'r corff marw yn ei fflat? What does Martin decide to do with the dead body in his flat? Why does Chris want Hazel to visit him in pri...",
+              "large": "Beth mae Martin yn penderfynu ei wneud gyda'r corff marw yn ei fflat? What does Martin decide to do with the dead body in his flat? Why does Chris want Hazel to visit him in prison?"
+            },
+            "tleo_id": "p036c88d",
+            "tleo_type": "brand",
+            "images": {
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cnjpp.jpg",
+              "type": "image"
+            },
+            "related_links": [],
+            "categories": [
+              "wales"
+            ],
+            "subtitle": "Cyfres 2: Pennod 8",
+            "release_date": "27 Dec 2015",
+            "release_date_time": "2015-12-27T00:00:00.000Z",
+            "parent_id": "p036c88g",
+            "master_brand": {
+              "id": "s4cpbs",
+              "attribution": "s4c",
+              "titles": {
+                "small": "S4C",
+                "medium": "S4C",
+                "large": "S4C"
+              }
+            },
+            "versions": [
+              {
+                "type": "version",
+                "id": "p03c0n11",
+                "hd": false,
+                "download": true,
+                "availability": {
+                  "start": "2015-12-27T22:00:00Z",
+                  "end": "2016-01-26T22:00:00Z",
+                  "remaining": {
+                    "text": "Available for 21 days"
+                  }
+                },
+                "kind": "original",
+                "guidance": {
+                  "id": "D3L1V1",
+                  "text": {
+                    "small": "Has guidance",
+                    "medium": "Contains some strong language, some violence and disturbing scenes.",
+                    "large": "Contains some strong language, some violent scenes and scenes which some viewers may find disturbing."
+                  }
+                },
+                "duration": {
+                  "value": "PT48M18S",
+                  "text": "48 mins"
+                },
+                "first_broadcast": "27 Dec 2015"
+              }
+            ],
+            "status": "available",
+            "signed": false,
+            "audio_described": false,
+            "guidance": true,
+            "suppliers": []
+          }
+        ]
+      },
+      {
+        "id": "p03984l7",
+        "tleo_type": "series",
+        "type": "programme_large",
+        "title": "40 Uchaf C'mon Midffild",
+        "synopses": {
+          "small": "Deugain golygfa fwyaf cofiadwy'r gyfres gomedi. The 40 most memorable moments of the co...",
+          "medium": "Deugain golygfa fwyaf cofiadwy'r gyfres gomedi. The 40 most memorable moments of the comedy series.",
+          "large": "Deugain golygfa fwyaf cofiadwy'r gyfres gomedi. The 40 most memorable moments of the comedy series."
+        },
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02bnq7y.jpg",
+          "type": "image",
+          "inherited_from": "master_brand"
+        },
+        "lexical_sort_letter": "0-9",
+        "master_brand": {
+          "id": "s4cpbs",
+          "attribution": "s4c",
+          "titles": {
+            "small": "S4C",
+            "medium": "S4C",
+            "large": "S4C"
+          }
+        },
+        "suppliers": [],
+        "categories": [
+          "wales"
+        ],
+        "status": "available",
+        "count": 2,
+        "initial_children": [
+          {
+            "id": "p03984lq",
+            "type": "episode",
+            "title": "40 Uchaf C'mon Midffild",
+            "lexical_sort_letter": "0-9",
+            "synopses": {
+              "small": "Yn yr ail raglen o uchafbwyntiau C'Mon Midffild cawn yr ugain golygfa fwyaf cofiadwy. T...",
+              "medium": "Yn yr ail raglen o uchafbwyntiau C'Mon Midffild cawn yr ugain golygfa fwyaf cofiadwy. The second programme of 40 memorable moments from the five series and two films of C'Mon Mi...",
+              "large": "Yn yr ail raglen o uchafbwyntiau C'Mon Midffild cawn yr ugain golygfa fwyaf cofiadwy. The second programme of 40 memorable moments from the five series and two films of C'Mon Midffild."
+            },
+            "tleo_id": "p03984l7",
+            "tleo_type": "series",
+            "images": {
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039zzgw.jpg",
+              "type": "image"
+            },
+            "related_links": [],
+            "categories": [
+              "wales"
+            ],
+            "subtitle": "Pennod 2",
+            "release_date": "25 Dec 2010",
+            "release_date_time": "2010-12-25T00:00:00.000Z",
+            "parent_id": "p03984l7",
+            "master_brand": {
+              "id": "s4cpbs",
+              "attribution": "s4c",
+              "titles": {
+                "small": "S4C",
+                "medium": "S4C",
+                "large": "S4C"
+              }
+            },
+            "versions": [
+              {
+                "type": "version",
+                "id": "p039q5nq",
+                "hd": false,
+                "download": true,
+                "availability": {
+                  "start": "2015-12-09T22:30:00Z",
+                  "end": "2016-01-08T22:30:00Z",
+                  "remaining": {
+                    "text": "Available until Fri 10:30pm"
+                  }
+                },
+                "kind": "technical-replacement",
+                "duration": {
+                  "value": "PT47M53S",
+                  "text": "48 mins"
+                },
+                "first_broadcast": "25 Dec 2010"
+              },
+              {
+                "type": "version",
+                "id": "p039q5nq",
+                "hd": false,
+                "download": true,
+                "availability": {
+                  "start": "2015-12-09T22:30:00Z",
+                  "end": "2016-01-08T22:30:00Z",
+                  "remaining": {
+                    "text": "Available until Fri 10:30pm"
+                  }
+                },
+                "kind": "original",
+                "duration": {
+                  "value": "PT47M53S",
+                  "text": "48 mins"
+                },
+                "first_broadcast": "25 Dec 2010"
+              }
+            ],
+            "status": "available",
+            "signed": false,
+            "audio_described": false,
+            "guidance": false,
+            "suppliers": []
+          }
+        ]
+      }
+    ]
+  }
+}

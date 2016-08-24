@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "episodes": [
+    {
+      "id": "p03c0hx5",
+      "type": "episode_large",
+      "title": "The Irish League Show",
+      "lexical_sort_letter": "I",
+      "synopses": {
+        "small": "Joel Taggart and Chris Morgan discuss the big talking points in the Irish Premiership.",
+        "medium": "Joel Taggart and Chris Morgan discuss the big talking points in the Irish Premiership as Linfield are held by 10-man Ballinamallard and Cliftonville close the gap at the top.",
+        "large": "Joel Taggart and Chris Morgan discuss the big talking points in the Irish Premiership as Linfield are held by 10-man Ballinamallard and Cliftonville close the gap at the top."
+      },
+      "tleo_id": "p029ydhd",
+      "tleo_type": "brand",
+      "images": {
+        "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p029z8r8.jpg",
+        "type": "image",
+        "inherited_from": "brand"
+      },
+      "related_links": [],
+      "categories": [
+        "sport"
+      ],
+      "subtitle": "14/12/2015",
+      "release_date": "14 Dec 2015",
+      "release_date_time": "2015-12-14T00:00:00.000Z",
+      "parent_id": "p029ydhd",
+      "parent_position": 46,
+      "master_brand": {
+        "id": "bbc_sport",
+        "attribution": "bbc_sport",
+        "titles": {
+          "small": "BBC Sport",
+          "medium": "BBC Sport",
+          "large": "BBC Sport"
+        }
+      },
+      "versions": [
+        {
+          "type": "version_large",
+          "id": "p03c0j5h",
+          "hd": false,
+          "download": true,
+          "availability": {
+            "start": "2015-12-14T19:23:50Z",
+            "end": "2016-01-13T19:00:00Z",
+            "remaining": {
+              "text": "Available for 26 days"
+            }
+          },
+          "kind": "iplayer-version",
+          "duration": {
+            "value": "PT30M",
+            "text": "30 mins"
+          },
+          "first_broadcast": "14 Dec 2015"
+        }
+      ],
+      "status": "available",
+      "signed": false,
+      "audio_described": false,
+      "guidance": false,
+      "suppliers": []
+    }
+  ]
+}

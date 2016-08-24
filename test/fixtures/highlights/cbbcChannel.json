@@ -1,0 +1,3134 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "channel_highlights": {
+    "channel": {
+      "id": "cbbc",
+      "type": "channel",
+      "title": "CBBC",
+      "has_schedule": true,
+      "master_brand_id": "cbbc"
+    },
+    "elements": [
+      {
+        "id": "b06wpfkp",
+        "type": "episode",
+        "title": "Eve",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03f6l5r.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06g95c6",
+        "guidance": false,
+        "subtitle": "Series 2: 2. Truth or Dare",
+        "synopses": {
+          "large": "An ordinary day in Green Park begins with Eve helping Will to cheat on his homework and Abe teaching Eve the importance of 'dares'. But then Will's mum Rebecca arrives from Dubai. Nick is adamant that Rebecca must not learn the truth about Eve. Will is upset that his dad doesn't trust his mum. Meanwhile, Zac returns from Cuba determined to win Eve back. Eve is initially uncertain that she wants to be won back. Zac goes all out to prove his good intentions, but as Eve starts to think more positively about Zac, her body seems to protect her from her feelings and drives her away from Zac. At dinner with his mum, Will asks tough questions about her disappearance from his life and realises why Rebecca has come back. They get interrupted when Will spots Mr Gwenlan - who is supposed to be in prison. Mr Gwenlan chases after Will and finally corners him.",
+          "small": "Zac returns from Cuba determined to win Eve back.",
+          "medium": "Sci-fi drama series. Will's mum Rebecca arrives from Dubai. Meanwhile, Zac returns from Cuba determined to win Eve back."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06wp8f0",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-10T17:00:00Z",
+              "start": "2016-01-11T17:00:00Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "4:30pm 11 Jan 2016"
+          }
+        ],
+        "parent_id": "b06vrm5m",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "11 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 2,
+        "release_date_time": "2016-01-11T00:00:00.000Z",
+        "lexical_sort_letter": "E",
+        "promoted": true
+      },
+      {
+        "id": "b01cpw0y",
+        "type": "episode",
+        "title": "My Life",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01hcl2s.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b00wsntc",
+        "guidance": false,
+        "subtitle": "Series 3: 3. Star's Incredible Journey",
+        "synopses": {
+          "large": "The inspiring story of 12-year-old Star, who undertakes a life-changing journey. Despite having brittle bone disease and barely being able to walk up stairs, Star is attempting to climb the 704 steps of the Eiffel Tower to raise money for charity. Will she make it to the top?",
+          "small": "A 12-year-old girl with brittle bone disease attempts to reach the top of the Eiffel Tower",
+          "medium": "The inspiring story of 12-year-old Star who, despite having brittle bone disease and barely being able to walk up stairs, is attempting to climb the 704 steps of the Eiffel Tower."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b01cpvx2",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "25 mins",
+              "value": "PT25M"
+            },
+            "availability": {
+              "end": "2016-02-10T17:30:00Z",
+              "start": "2016-01-11T17:30:00Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "4:30pm 29 Feb 2012"
+          },
+          {
+            "hd": false,
+            "id": "p00pm1l5",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "25 mins",
+              "value": "PT25M"
+            },
+            "availability": {
+              "end": "2016-02-10T17:30:00Z",
+              "start": "2016-01-11T17:49:40Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "29 Feb 2012"
+          }
+        ],
+        "parent_id": "b01cc9h6",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc",
+          "documentaries"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "29 Feb 2012",
+        "related_links": [
+          {
+            "id": "p0151nb9",
+            "url": "http://www.bbc.co.uk/cbbc/shows/my-life",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "Visit the My Life website"
+          }
+        ],
+        "audio_described": true,
+        "parent_position": 3,
+        "release_date_time": "2012-02-29T00:00:00.000Z",
+        "lexical_sort_letter": "M",
+        "promoted": true
+      },
+      {
+        "id": "b06wkk0r",
+        "type": "episode",
+        "title": "Jamillah and Aladdin",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dcbkk.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06rlc1j",
+        "guidance": false,
+        "subtitle": "8. The Talking Treasure Bird",
+        "synopses": {
+          "large": "Aladdin buys a treasure bird, but he must convince him to talk if he ever wants to find it. With Jamillah's help and a little spell from Genie, they find the treasure, but all is not as it seems.",
+          "small": "Aladdin buys a treasure bird, but he must convince him to talk.",
+          "medium": "Drama series. Aladdin buys a treasure bird, but he must convince him to talk if he ever wants to find it. Jamillah and Genie give a little help."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06wkh0x",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "13 mins",
+              "value": "PT13M"
+            },
+            "availability": {
+              "end": "2016-02-09T09:00:00Z",
+              "start": "2016-01-10T09:00:00Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "first_broadcast": "8:45am 10 Jan 2016"
+          },
+          {
+            "hd": false,
+            "id": "p03f25qv",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "13 mins",
+              "value": "PT13M"
+            },
+            "availability": {
+              "end": "2016-02-09T09:00:00Z",
+              "start": "2016-01-10T09:09:49Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "first_broadcast": "10 Jan 2016"
+          }
+        ],
+        "parent_id": "b06rlc1j",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "series",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "10 Jan 2016",
+        "related_links": [],
+        "next_broadcast": {
+          "channel_title": "CBeebies",
+          "scheduled_start": "2016-01-20T17:20:00.000Z"
+        },
+        "audio_described": true,
+        "parent_position": 8,
+        "release_date_time": "2016-01-10T00:00:00.000Z",
+        "lexical_sort_letter": "J",
+        "promoted": true
+      },
+      {
+        "id": "b06wk72p",
+        "type": "episode",
+        "title": "All Over the Place",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03f6kls.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b01bl2sy",
+        "guidance": false,
+        "subtitle": "Europe: Part 2: 7. Wheel Bobs, Legends and Pumpkins",
+        "synopses": {
+          "large": "Ed Petrie and his CBBC mates go on an adventure to find the most unusual and amazing places in Europe. They swap a bobsleigh for a wheel bob in Norway, find out what hungry Hungarians do with vanilla custard in Budapest, sing about Prague legends in the Czech Republic, explore a dragon's cave in Slovakia, and compete in a pumpkin regatta in Germany. Ed is joined on this bonkers road trip by Sam and Mark, Michelle Ackerley, Victoria Cook, Hacker and Dodge, Barney Harwood, Johny Pitts and Naomi Wilkinson - there's stuff to do in Europe that is totally ace and it turns up all over the place!",
+          "small": "Ed Petrie and his friends explore a dragon's cave in Slovakia.",
+          "medium": "Ed Petrie and friends visit unusual places in Europe. They find out what hungry Hungarians do with vanilla custard in Budapest."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06wj5tw",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-11T08:15:00Z",
+              "start": "2016-01-12T08:15:00Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "7:45am 12 Jan 2016"
+          }
+        ],
+        "parent_id": "b06vplh5",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "12 Jan 2016",
+        "related_links": [
+          {
+            "id": "p016073j",
+            "url": "http://www.bbc.co.uk/cbbc/games/all-over-the-place-europe-game",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "Play the game"
+          }
+        ],
+        "audio_described": false,
+        "parent_position": 7,
+        "release_date_time": "2016-01-12T00:00:00.000Z",
+        "lexical_sort_letter": "A",
+        "promoted": true
+      },
+      {
+        "id": "p02s915l",
+        "type": "group_large",
+        "stacked": true,
+        "title": "Hetty Feather",
+        "synopses": {
+          "small": "Fearless Hetty Feather is determined to gain her freedom and find her real mother.",
+          "medium": "Fearless Hetty Feather is determined to gain her freedom and find her real mother.",
+          "large": "Fearless Hetty Feather is determined to gain her freedom and find her real mother."
+        },
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02sh27v.jpg",
+          "vertical": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02s92v7.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "group_type": "curated",
+        "count": 10,
+        "initial_children": [
+          {
+            "id": "b061frpv",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02w6jvm.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "1. The Escape, Part 1",
+            "synopses": {
+              "large": "Drama series set in Victorian-era London. Hetty Feather and her little brother Gideon are forced to leave their 'borrowed' family and return to the Foundling Hospital, which fearsome Matron rules with an iron fist. When Hetty meets up with Mathias and the gang from the boys' wing they hatch a high-risk plan to escape the hospital for good. Can they scale the walls in search of freedom or will the She-Mob and Matron catch and punish them?",
+              "small": "Hetty and her little brother are forced to leave their foster family.",
+              "medium": "Drama series set in Victorian-era London. Hetty Feather and her brother are forced to leave their foster family and return to the Foundling Hospital."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b061frc7",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "30 mins",
+                  "value": "PT30M"
+                },
+                "availability": {
+                  "end": "2016-02-08T15:45:00Z",
+                  "start": "2016-01-09T15:45:00Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "2:55pm 20 Jun 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02v5pqq",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "30 mins",
+                  "value": "PT30M"
+                },
+                "availability": {
+                  "end": "2016-02-08T15:45:00Z",
+                  "start": "2016-01-09T15:59:51Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "20 Jun 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "20 Jun 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 1,
+            "release_date_time": "2015-06-20T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b061fsn3",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02w6jvw.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "2. The Escape, Part 2",
+            "synopses": {
+              "large": "Drama series set in Victorian-era London. Hetty Feather and her little brother Gideon are forced to leave their 'borrowed' family and return to the Foundling Hospital, which fearsome Matron rules with an iron fist. When Hetty meets up with Mathias and the gang from the boys' wing they hatch a high-risk plan to escape the hospital for good. Can they scale the walls in search of freedom or will the She-Mob and Matron catch and punish them?",
+              "small": "Hetty and her little brother are forced to leave their foster family.",
+              "medium": "Drama series set in Victorian-era London. Hetty Feather and her brother are forced to leave their foster family and return to the Foundling Hospital."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b061fs1g",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "30 mins",
+                  "value": "PT30M"
+                },
+                "availability": {
+                  "end": "2016-02-08T16:10:00Z",
+                  "start": "2016-01-09T16:10:00Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "2:55pm 21 Jun 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02v87zz",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "30 mins",
+                  "value": "PT30M"
+                },
+                "availability": {
+                  "end": "2016-02-08T16:10:00Z",
+                  "start": "2016-01-09T16:29:17Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "21 Jun 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "21 Jun 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 2,
+            "release_date_time": "2015-06-21T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b05wdp1b",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02r9kyr.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "3. The Tower",
+            "synopses": {
+              "large": "Drama series set in Victorian-era London. It's Hetty and Gideon's borrowed birthday but how can Hetty celebrate with her brother when girls are not even allowed to mix with the boys? With a plan to scale through the rafters and into the towers, can the two wings secretly come together without Matron finding out, and what about the dangers of getting across the roof at night?",
+              "small": "Hetty and Gideon plan to secretly celebrate their borrowed birthday together.",
+              "medium": "Drama series set in Victorian-era London. Hetty and Gideon want to celebrate their borrowed birthday together but girls are not allowed to mix with the boys."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05wdp0s",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "27 mins",
+                  "value": "PT27M"
+                },
+                "availability": {
+                  "end": "2016-02-08T16:40:00Z",
+                  "start": "2016-01-09T16:40:00Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "4:30pm 18 May 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02rnz99",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "58 mins",
+                  "value": "PT58M"
+                },
+                "availability": {
+                  "end": "2016-02-08T16:40:00Z",
+                  "start": "2016-01-09T17:00:32Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "18 May 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "18 May 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 3,
+            "release_date_time": "2015-05-18T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b05xc0l0",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02rt5t5.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "4. Jack in the Box",
+            "synopses": {
+              "large": "Drama series set in Victorian-era London. Mathias is back and a shadow of his former fearless self. With the hospital on lockdown in order to mass-produce toys that are supposedly earmarked for charity, the children start falling ill, and Gideon tries to enlist Mathias's help to get to the bottom of Matron's toy-making venture.",
+              "small": "Gideon tries to enlist Mathias's help to get to the bottom of Matron's toy-making venture.",
+              "medium": "Drama series set in Victorian-era London. The children start falling ill when the hospital is put on lockdown in order to mass-produce toys."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05xc0gs",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "27 mins",
+                  "value": "PT27M"
+                },
+                "availability": {
+                  "end": "2016-02-08T17:10:00Z",
+                  "start": "2016-01-09T17:10:00Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "4:30pm 25 May 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02s649q",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "58 mins",
+                  "value": "PT58M"
+                },
+                "availability": {
+                  "end": "2016-02-08T17:10:00Z",
+                  "start": "2016-01-09T17:34:38Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "25 May 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "25 May 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 4,
+            "release_date_time": "2015-05-25T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b05y3zsk",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02sc0kq.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "5. Sisters",
+            "synopses": {
+              "large": "Drama series set in Victorian-era London. Hetty's feisty little borrowed sister Eliza arrives at the hospital and, like Hetty, clashes with Matron. When Matron's sister Annie arrives to deliver bad news about her mother, she also tries helping Eliza and Hetty in their battles. But can Annie help her own sister make amends with their frail mother before it's too late?",
+              "small": "Matron's sister arrives to deliver bad news about her mother.",
+              "medium": "Drama series set in Victorian-era London. Hetty's borrowed younger sister Eliza arrives at the hospital and clashes with Matron."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05y3zq6",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "27 mins",
+                  "value": "PT27M"
+                },
+                "availability": {
+                  "end": "2016-02-08T17:40:00Z",
+                  "start": "2016-01-09T17:40:00Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "4:30pm 1 Jun 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02sprxr",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "27 mins",
+                  "value": "PT27M"
+                },
+                "availability": {
+                  "end": "2016-02-08T17:40:00Z",
+                  "start": "2016-01-09T17:57:05Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "1 Jun 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "1 Jun 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 5,
+            "release_date_time": "2015-06-01T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b05yxcf0",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02sv1nx.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "6. Strike",
+            "synopses": {
+              "large": "Kindly nurse Winterson is sacked by Matron, so Hetty convinces the children to go on strike. Will Matron capitulate before the choir debut their new anthem in order to win a £100 donation for the school's organ? Or will Hetty lose support and be crushed by Matron?",
+              "small": "Nurse Winterson is sacked by Matron, so Hetty convinces the children to go on strike.",
+              "medium": "Drama series set in Victorian-era London. Kindly nurse Winterson is sacked by Matron, so Hetty convinces the children to go on strike. Will Matron back down?"
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05yxcd6",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "27 mins",
+                  "value": "PT27M"
+                },
+                "availability": {
+                  "end": "2016-02-09T15:50:00Z",
+                  "start": "2016-01-10T15:50:00Z",
+                  "remaining": {
+                    "text": "Available for 28 days"
+                  }
+                },
+                "first_broadcast": "4:30pm 8 Jun 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02t7k4n",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "27 mins",
+                  "value": "PT27M"
+                },
+                "availability": {
+                  "end": "2016-02-09T15:50:00Z",
+                  "start": "2016-01-10T16:18:17Z",
+                  "remaining": {
+                    "text": "Available for 28 days"
+                  }
+                },
+                "first_broadcast": "8 Jun 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "8 Jun 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 6,
+            "release_date_time": "2015-06-08T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b05zm4wb",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02tcwbb.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "7. Raising the Flag",
+            "synopses": {
+              "large": "The boys compete in a series of gruelling army tests in order to win a place out of the Foundling Hospital and into the big wide world as a drummer boy in the army. With Vince determined to beat his main rival Mathias, a bitter battle is set to turn nasty. Meanwhile, Hetty and Sheila are forced to work together in the infirmary as nurses tending to a sickly boy named Charlie. But will their rivalry get in the way of looking after the ailing patient?",
+              "small": "Hetty and Sheila are forced to work together in the infirmary.",
+              "medium": "Drama series set in Victorian-era London. The boys compete in a series of gruelling army tests in order to win a place as a drummer boy in the army."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05zm4gx",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "28 mins",
+                  "value": "PT28M"
+                },
+                "availability": {
+                  "end": "2016-02-09T16:20:00Z",
+                  "start": "2016-01-10T16:20:00Z",
+                  "remaining": {
+                    "text": "Available for 28 days"
+                  }
+                },
+                "first_broadcast": "4:30pm 15 Jun 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02tsm1m",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "28 mins",
+                  "value": "PT28M"
+                },
+                "availability": {
+                  "end": "2016-02-09T16:20:00Z",
+                  "start": "2016-01-10T16:44:30Z",
+                  "remaining": {
+                    "text": "Available for 28 days"
+                  }
+                },
+                "first_broadcast": "15 Jun 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "15 Jun 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 7,
+            "release_date_time": "2015-06-15T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b060gy0y",
+            "type": "episode",
+            "title": "Hetty Feather",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02v34hs.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05vt97h",
+            "guidance": false,
+            "subtitle": "8. Foundling Reclaimed",
+            "synopses": {
+              "large": "A distraught couple have come to reclaim their child, but which foundling could it be? With Hetty determined to find out, someone could be leaving with the parents for good. But will Matron allow the foundling to be reclaimed without a fight? Meanwhile, Gideon plans on escaping in search of his parents, but Vince and Judd have other plans.",
+              "small": "A distraught couple come to the hospital to reclaim their child.",
+              "medium": "Drama series set in Victorian-era London. Gideon plans on escaping in search of his parents, but Vince and Judd have other plans."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b060gwz0",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "28 mins",
+                  "value": "PT28M"
+                },
+                "availability": {
+                  "end": "2016-02-09T16:45:00Z",
+                  "start": "2016-01-10T16:45:00Z",
+                  "remaining": {
+                    "text": "Available for 28 days"
+                  }
+                },
+                "first_broadcast": "4:30pm 22 Jun 2015"
+              },
+              {
+                "hd": false,
+                "id": "p02vbzqb",
+                "kind": "audio-described",
+                "type": "version",
+                "download": false,
+                "duration": {
+                  "text": "28 mins",
+                  "value": "PT28M"
+                },
+                "availability": {
+                  "end": "2016-02-09T16:45:00Z",
+                  "start": "2016-01-10T17:05:47Z",
+                  "remaining": {
+                    "text": "Available for 28 days"
+                  }
+                },
+                "first_broadcast": "22 Jun 2015"
+              }
+            ],
+            "parent_id": "b05vt97h",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "22 Jun 2015",
+            "related_links": [],
+            "audio_described": true,
+            "parent_position": 8,
+            "release_date_time": "2015-06-22T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          }
+        ]
+      },
+      {
+        "id": "b06wp1yf",
+        "type": "episode",
+        "title": "The Dengineers",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dcbfq.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06r4bcp",
+        "guidance": false,
+        "subtitle": "7. Art Den",
+        "synopses": {
+          "large": "Mark and Lauren get the help of experts to design dream dens for children.\n\nNyobi loves to be creative and spends hours working on her art and design projects. However Nyobi needs more room, a proper desk space and better art materials, in order to fully 'express herself'! Also, her tendency to splash paint on her bedroom carpet, in their rented accommodation, is causing some problems for Nyobi and her mum.",
+          "small": "Nyobi needs room, a desk space and art materials, for her design projects.",
+          "medium": "Mark and Lauren get the help of experts to design dream dens for children. Nyobi needs room, a desk space and art materials, for her design projects."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06wp1mw",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-08T08:55:00Z",
+              "start": "2016-01-09T08:55:00Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "first_broadcast": "8:25am 9 Jan 2016"
+          }
+        ],
+        "parent_id": "b06r4bcp",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "series",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "9 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 7,
+        "release_date_time": "2016-01-09T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "promoted": true
+      },
+      {
+        "id": "b06wpfkr",
+        "type": "episode",
+        "title": "DIXI",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dccjr.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06yn6t5",
+        "guidance": false,
+        "subtitle": "Series 1: 5. The Curious Incident of the Dog in the Daytime",
+        "synopses": {
+          "large": "Mystery drama series. The hacker launches a new attack, and it's not just online any more. Shari tries to deal with the fall out... and hears a surprise confession.",
+          "small": "The hacker launches a new attack, and it's not just online any more.",
+          "medium": "Mystery drama series. The hacker launches a new attack, and it's not just online any more. Shari tries to deal with the fall out."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06wp924",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "11 mins",
+              "value": "PT11M"
+            },
+            "availability": {
+              "end": "2016-02-10T17:40:00Z",
+              "start": "2016-01-11T17:40:00Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "first_broadcast": "5:30pm 11 Jan 2016"
+          }
+        ],
+        "parent_id": "b06vtbmq",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "11 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 5,
+        "release_date_time": "2016-01-11T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "promoted": true
+      },
+      {
+        "id": "b06wqjgd",
+        "type": "episode",
+        "title": "Technobabble",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dcbqt.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06n4c72",
+        "guidance": false,
+        "subtitle": "Series 2: 7. Sport",
+        "synopses": {
+          "large": "Frankie finds out how technology is helping train Team GB's top athletes when he visits the English Institute of Sport at Bisham Abbey - he is put through his paces on an anti-gravity treadmill! And Paul is up for the quest when he looks at role-playing games. US-based Rita takes us on an exclusive behind the scenes tour of Google HQ in California! And antipodean vlogger, Elly, is getting her geek on with some top tech apps. Also, the Vlogster attempts to answer the question 'Will computers ever be cleverer than humans?' He also gets behind the jargon with another Babblebuster.",
+          "small": "Rita goes on an exclusive behind-the-scenes tour of Google HQ in California.",
+          "medium": "Series about apps, gaming and technology. Frankie learns how technology is helping train Team GB's top athletes when he visits the English Institute of Sport at Bisham Abbey."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06wqhz0",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "15 mins",
+              "value": "PT15M"
+            },
+            "availability": {
+              "end": "2016-02-09T09:45:00Z",
+              "start": "2016-01-10T09:45:00Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "first_broadcast": "9:30am 10 Jan 2016"
+          }
+        ],
+        "parent_id": "b06n4c9x",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "10 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 7,
+        "release_date_time": "2016-01-10T00:00:00.000Z",
+        "lexical_sort_letter": "T",
+        "promoted": true
+      },
+      {
+        "id": "b06s65rg",
+        "type": "episode",
+        "title": "The Dumping Ground",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039q50v.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03ps789",
+        "guidance": false,
+        "subtitle": "Series 3: 20. Refuge",
+        "synopses": {
+          "large": "Kazima fails her age assessment and so the immigration authorities want to send her back to Somalia. The Dumping Ground must rally to help her any way they can.",
+          "small": "The immigration authorities want to send Kazima back to Somalia.",
+          "medium": "Drama series. Kazima fails her age assessment and so the immigration authorities want to send her back to Somalia. The Dumping Ground must rally to help her any way they can."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06s64c0",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2016-02-09T12:40:00Z",
+              "start": "2015-12-13T18:30:00Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "credits_start": 1674,
+            "first_broadcast": "4:30pm 8 Dec 2015"
+          },
+          {
+            "hd": false,
+            "id": "p03bhwgc",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2016-02-09T12:40:00Z",
+              "start": "2015-12-13T18:30:00Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "first_broadcast": "8 Dec 2015"
+          }
+        ],
+        "parent_id": "b04z286p",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "8 Dec 2015",
+        "related_links": [
+          {
+            "id": "p0216jgr",
+            "url": "http://www.bbc.co.uk/cbbc/games/the-dumping-ground-youre-the-boss-game",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "Play the Dumping Ground game"
+          }
+        ],
+        "audio_described": true,
+        "parent_position": 20,
+        "release_date_time": "2015-12-08T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "promoted": true
+      },
+      {
+        "id": "p02pp3x3",
+        "type": "group_large",
+        "stacked": true,
+        "title": "Matilda and the Ramsay Bunch",
+        "synopses": {
+          "small": "Join Matilda as she cooks up a storm and goes on adventures with her family.",
+          "medium": "Join Matilda as she cooks up a storm and goes on adventures with her family.",
+          "large": "Join Matilda as she cooks up a storm and goes on adventures with her family."
+        },
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02pt0rp.jpg",
+          "vertical": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02pt0q8.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "group_type": "curated",
+        "count": 14,
+        "initial_children": [
+          {
+            "id": "b062ws00",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02wql7b.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "14. The Daredevil",
+            "synopses": {
+              "large": "Dad Gordon and mum Tana take the family on their first-ever helicopter ride. Hearts are pumping as the chopper races along the coast. \n\nThe family visits Catalina Island for a hair-raising adventure. Are Matilda, Holly, Megan and Jack brave enough conquer southern California's biggest zip-line course? It's 600 ft above sea level and they each have to hold on tight and leap off the platform to race down. \n\nTo give her thrill-seeking family some extra courage, Matilda lays on a stunning spread, including her all-American chilli, Californian cornbread with honey butter and magical meringues.",
+              "small": "The family visits Catalina Island for a hair-raising adventure.",
+              "medium": "Matilda Ramsay and her family are in LA to make food and have fun. Dad Gordon and mum Tana take the family on their first-ever helicopter ride."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b062wryh",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "16 mins",
+                  "value": "PT16M"
+                },
+                "availability": {
+                  "end": "2016-02-02T14:50:00Z",
+                  "start": "2016-01-03T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 21 days"
+                  }
+                },
+                "first_broadcast": "5pm 14 Jul 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "14 Jul 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 14,
+            "release_date_time": "2015-07-14T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b061z849",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02wj77c.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "13. The Mexican Party",
+            "synopses": {
+              "large": "Matilda and the Ramsay bunch plan a Mexican party - with a twist. Dad Gordon is always teasing Matilda, Jack, Megan and Holly, so they are planning to get their own back with a customised pinata which looks just like their famous father and will make a smashing end to the day. \n\nOn Matilda's menu are her best-ever tacos, spiked corn with cheese coriander and lime, and chocolatey churros.",
+              "small": "Matilda, Jack, Megan and Holly create a pinata which looks just like their famous father.",
+              "medium": "Matilda Ramsay and her family are in LA to make food and have fun. Matilda and the Ramsay bunch plan a Mexican party - with a twist."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b061z83x",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "16 mins",
+                  "value": "PT16M"
+                },
+                "availability": {
+                  "end": "2016-02-01T14:45:00Z",
+                  "start": "2016-01-02T14:45:00Z",
+                  "remaining": {
+                    "text": "Available for 20 days"
+                  }
+                },
+                "first_broadcast": "5pm 7 Jul 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "7 Jul 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 13,
+            "release_date_time": "2015-07-07T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b0619z57",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02vk6bl.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "12. The Fitness Training",
+            "synopses": {
+              "large": "Matilda and the Ramsay bunch hit the California beach for a healthy dose of competitive fun. Sports-mad dad Gordon has arranged a circuit of fitness training right on the famous Santa Monica beach front, complete with a visit from a skateboarding dog. Will Matilda be able to keep up with her older siblings Jack, Megan and Holly and mum Tana in the coastal running race? To keep their energy levels topped up, Matilda delivers a fresh and exciting picnic of healthy wraps, sweet summer green salad with honey and mustard dressing, and dad's special triathlon granola bars.",
+              "small": "Matilda and her family hit the California beach for a healthy dose of competitive fun.",
+              "medium": "Matilda Ramsay and her family are in LA to make food and have fun. The Ramsay bunch hit the California beach for a healthy dose of competitive fun."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b0619z3s",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "16 mins",
+                  "value": "PT16M"
+                },
+                "availability": {
+                  "end": "2016-01-31T14:50:00Z",
+                  "start": "2016-01-01T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 19 days"
+                  }
+                },
+                "first_broadcast": "4:55pm 30 Jun 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "30 Jun 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 12,
+            "release_date_time": "2015-06-30T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b060gzq4",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02v354s.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "11. The LA Makeover",
+            "synopses": {
+              "large": "Matilda and the Ramsay bunch soak up the best of Californian street style. Matilda's sisters Holly, Megan and family friend Elspeth hit the shops to get the perfect LA look. The girls meet up with Justina Sharpe, one of the hottest teenage fashion bloggers in America, who shows them what's cool in LA. Street food here is super-yummy and super-fashionable, so Matilda is inspired to cook some LA favourites - her quick and colourful chicken noodle salad, delicious veggie dumplings and irresistible ice cream cone cupcake.",
+              "small": "Matilda is inspired to cook LA street food, including chicken noodle salad and dumplings.",
+              "medium": "Matilda Ramsay and her family are in LA to make food and have fun. Matilda's sisters Holly, Megan and family friend Elspeth hit the shops to get the perfect LA look."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b060gzp9",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "16 mins",
+                  "value": "PT16M"
+                },
+                "availability": {
+                  "end": "2016-01-30T14:50:00Z",
+                  "start": "2015-12-31T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 18 days"
+                  }
+                },
+                "first_broadcast": "4:55pm 23 Jun 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "23 Jun 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 11,
+            "release_date_time": "2015-06-23T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b05zhgcm",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02tw99d.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "10. The Karaoke Party",
+            "synopses": {
+              "large": "Matilda and the Ramsay bunch turn up the music. Los Angeles is America's music capital, so keen cook Matilda throws a pop music party. To make sure it's a hit, she gets help from Jack, Megan and Holly, who head to a famous recording studio to produce a special song for the day. Back in the kitchen, Matilda composes her own menu of poptastic food: crazy stick ribs, big beat stars and pop power brownies.",
+              "small": "Los Angeles is America's music capital, so Matilda throws a pop music party.",
+              "medium": "Matilda and the Ramsay bunch turn up the music. Los Angeles is America's music capital, so keen cook Matilda throws a pop music party."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05zhgc3",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "15 mins",
+                  "value": "PT15M"
+                },
+                "availability": {
+                  "end": "2016-01-29T14:50:00Z",
+                  "start": "2015-12-30T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 17 days"
+                  }
+                },
+                "first_broadcast": "4:55pm 16 Jun 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "16 Jun 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 10,
+            "release_date_time": "2015-06-16T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b05ylg7w",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02sv38c.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "9. The Pool Party",
+            "synopses": {
+              "large": "Matilda and the Ramsay Bunch throw the ultimate California summer party - wet, wild and so much fun! To make sure her pool party goes with a big splash, Tilly has asked her brother Jack and big sister Megan to help out and pick up some cool inflatables. On the way to the shops, ultra-competitive Megan and Jack do some serious swim training, ending in a Ramsay front-crawl battle to be fastest. Poolside, Matilda is serving up her best ever fish finger sandwiches, a rockpool salad and redcurrant and strawberry iced sea lollies.",
+              "small": "Matilda and the Ramsay Bunch throw the ultimate California summer party.",
+              "medium": "Matilda and the Ramsay Bunch throw the ultimate California summer party - wet, wild and so much fun! Megan and Jack do some serious swim training."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05ylfj8",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "15 mins",
+                  "value": "PT15M"
+                },
+                "availability": {
+                  "end": "2016-01-28T14:50:00Z",
+                  "start": "2015-12-29T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 16 days"
+                  }
+                },
+                "first_broadcast": "4:55pm 9 Jun 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "9 Jun 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 9,
+            "release_date_time": "2015-06-09T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b05y0ny1",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02sc1df.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "8. The Sleepover",
+            "synopses": {
+              "large": "Matilda tries to banish the boys and have a girls-only sleepover! Megan, Holly and their friend Elspeth head off to check out the night stars at a brilliant planetarium. Then they hit the Los Angeles beauty parlours to get some serious girly pampering with cool painted nails. For the sleepover, Matilda works her magic in the kitchen and cooks up some fantastic sharing food: yummy spiced chicken wings, Californian summer rolls and amazing jellies that glow in the dark. The sleepover is girls-only, but Jack's determined to sneak in and get his hands on some of the delicious food. The girls are ready for his tricks, though.",
+              "small": "Matilda tries to banish the boys and have a girls-only sleepover.",
+              "medium": "Matilda tries to banish the boys and have a girls-only sleepover. Megan, Holly and their friend Elspeth head off to check out the night stars at a planetarium."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05y0nw3",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "15 mins",
+                  "value": "PT15M"
+                },
+                "availability": {
+                  "end": "2016-01-27T14:50:00Z",
+                  "start": "2015-12-28T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 15 days"
+                  }
+                },
+                "first_broadcast": "4:55pm 2 Jun 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "2 Jun 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 8,
+            "release_date_time": "2015-06-02T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          },
+          {
+            "id": "b05xc3md",
+            "type": "episode",
+            "title": "Matilda and the Ramsay Bunch",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02rt6mt.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b05rkx7r",
+            "guidance": false,
+            "subtitle": "7. The US Sportsday",
+            "synopses": {
+              "large": "Matilda and the Ramsay Bunch go sport mad. Californians really love their sport. The world series of beach volleyball takes place on the beach in Los Angeles, and the competing teams from all over the world are incredibly fit and super-competitive. Matilda cooks up a fantastic picnic which is perfect to eat as they watch the exciting competition - delicious LA hot dogs with yummy fresh and crunchy coleslaw and scrummy pretzels with cinnamon sugar. The gang also get to meet some of the professional volleyball players, and Tilly shares freshly cooked pretzels.",
+              "small": "Matilda cooks up a picnic to eat as they watch the world series of beach volleyball.",
+              "medium": "Matilda Ramsay and her family are in LA to make food and have fun. Matilda cooks up a picnic to eat as they watch the world series of beach volleyball."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b05xc3lw",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "15 mins",
+                  "value": "PT15M"
+                },
+                "availability": {
+                  "end": "2016-01-26T14:50:00Z",
+                  "start": "2015-12-27T14:50:00Z",
+                  "remaining": {
+                    "text": "Available for 14 days"
+                  }
+                },
+                "first_broadcast": "4:55pm 26 May 2015"
+              }
+            ],
+            "parent_id": "b05rkx7r",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "26 May 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 7,
+            "release_date_time": "2015-05-26T00:00:00.000Z",
+            "lexical_sort_letter": "M"
+          }
+        ]
+      },
+      {
+        "id": "b03j04jy",
+        "type": "episode",
+        "title": "Operation Ouch!",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01l9tm5.jpg",
+          "inherited_from": "series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03cdr8s",
+        "guidance": false,
+        "subtitle": "Series 2: Episode 7",
+        "synopses": {
+          "large": "The doctors prove that we all have invisible ink inside our bodies, and Dr Xand sees head lice removed from someone's hair with a vacuum cleaner. Meanwhile, over in accident and emergency, one patient has banged her head on a telegraph pole and another has a piece of crayon in her ear...",
+          "small": "The doctors prove that we all have invisible ink inside our bodies.",
+          "medium": "The doctors prove that we all have invisible ink inside our bodies, and Dr Xand sees head lice removed from someone's hair with a vacuum cleaner."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b03j04gf",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-08T13:45:00Z",
+              "start": "2016-01-09T13:45:00Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "first_broadcast": "5:30pm 11 Nov 2013"
+          }
+        ],
+        "parent_id": "b03cdqpf",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "11 Nov 2013",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 7,
+        "release_date_time": "2013-11-11T00:00:00.000Z",
+        "lexical_sort_letter": "O",
+        "promoted": true
+      },
+      {
+        "id": "b050j7dq",
+        "type": "episode",
+        "title": "Art Ninja",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02gz86n.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b050s2cg",
+        "guidance": false,
+        "subtitle": "1. Day of the Birdman",
+        "synopses": {
+          "large": "Ricky lives in Bristol. By day, he works as an animator, which is lucky because he loves art. He lives for art. He even dreams of art. He draws, he paints and - with his friends and members of his family who drop by - he makes ninja moves. That's why some people call him the Art Ninja. \n\nRicky is reminded of his childhood pet Mr Chicken. After creating Picasso-inspired art on an egg box, he decides to fly like a bird, making an ingenious collage to help him try to find his old feathered friend.",
+          "small": "Ricky creates Picasso-inspired art on an egg box.",
+          "medium": "Children's series. Ricky is reminded of his childhood pet Mr Chicken and creates a collage to help him find his old feathered friend."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b050j7dm",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-08T09:35:00Z",
+              "start": "2016-01-01T18:01:59Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "first_broadcast": "8:25am 17 Jan 2015"
+          }
+        ],
+        "parent_id": "b050s2cg",
+        "suppliers": [],
+        "tleo_type": "series",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "17 Jan 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 1,
+        "release_date_time": "2015-01-17T00:00:00.000Z",
+        "lexical_sort_letter": "A",
+        "promoted": true
+      },
+      {
+        "id": "b06vs080",
+        "type": "episode",
+        "title": "The Dog Ate My Homework",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cw1cs.jpg"
+        },
+        "labels": {
+          "editorial": "New Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b0513cnw",
+        "guidance": false,
+        "subtitle": "Series 3: Episode 1",
+        "synopses": {
+          "large": "Iain Stirling presides over the school-based comedy panel show. He is joined by child team captains Lucas and Liberty and special guests Johnny and Inel, Chris Johnson and Susan Calman, who battle it out in a series of games, including Pie the Supply, where the captains try to pie a teacher in the face! It's guaranteed to make you laugh!",
+          "small": "The team captains are joined by Johnny and Inel, Chris Johnson and Susan Calman.",
+          "medium": "Iain Stirling hosts the school-based comedy panel show. He is joined by special guests Johnny and Inel, Chris Johnson and Susan Calman, who battle it out in a series of games."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06vs04t",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-07T17:00:00Z",
+              "start": "2016-01-08T17:00:00Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "first_broadcast": "4:30pm 8 Jan 2016"
+          }
+        ],
+        "parent_id": "b06vs04r",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "8 Jan 2016",
+        "related_links": [],
+        "next_broadcast": {
+          "channel_title": "CBBC",
+          "scheduled_start": "2016-01-16T09:50:00.000Z"
+        },
+        "audio_described": false,
+        "parent_position": 1,
+        "release_date_time": "2016-01-08T00:00:00.000Z",
+        "lexical_sort_letter": "D",
+        "promoted": true
+      },
+      {
+        "id": "b06vry6b",
+        "type": "episode",
+        "title": "Blue Peter",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dxrmn.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006md2v",
+        "guidance": false,
+        "subtitle": "All New For 2016!",
+        "synopses": {
+          "large": "The team celebrate their love for big, daring and incredible World Championship challenges! It's a chance to see again Lindsey's epic canoe challenge, where she took on some of the fastest man-made rapids at the World Championship course, and Radzi's incredible gymnastic performance, at the World Championships in Glasgow.",
+          "small": "Radzi goes behind the scenes at the Sports Personality of the Year Awards.",
+          "medium": "Radzi goes behind the scenes at the Sports Personality of the Year Awards and the team looks back at the best bits from the last 12 months."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06vry63",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "24 mins",
+              "value": "PT24M"
+            },
+            "availability": {
+              "end": "2016-02-09T09:30:00Z",
+              "start": "2016-01-07T17:30:11Z",
+              "remaining": {
+                "text": "Available for 27 days"
+              }
+            },
+            "first_broadcast": "5pm 7 Jan 2016"
+          }
+        ],
+        "parent_id": "b006md2v",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "7 Jan 2016",
+        "related_links": [
+          {
+            "id": "p0216jyk",
+            "url": "http://www.bbc.co.uk/cbbc/games/blue-peter-dress-for-success-game",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "Play the game"
+          }
+        ],
+        "audio_described": false,
+        "parent_position": 40,
+        "release_date_time": "2016-01-07T00:00:00.000Z",
+        "lexical_sort_letter": "B",
+        "promoted": true
+      },
+      {
+        "id": "b06vrv2t",
+        "type": "episode",
+        "title": "Got What It Takes?",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cw0yb.jpg"
+        },
+        "labels": {
+          "editorial": "New Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06vtdtp",
+        "guidance": false,
+        "subtitle": "Episode 1",
+        "synopses": {
+          "large": "Talent show. Eight young singers and their mums arrive at the music mansion where presenter Lauren Platt reveals the exciting prize that awaits at the end of the competition. With help from music maestro David Tench, the group get to grips with an Ed Sheeran song, and the series begins with a visit from S Club 7's Bradley McIntosh who challenges the contestants to work together as a group. Games guru Kevin Adams tests the determination of the mums as they battle it out for the high notes in a game of Zorb bowling - but who will secure a place at the sing-off?",
+          "small": "Eight young singers and their mums arrive at the music mansion.",
+          "medium": "Talent show. Eight young singers and their mums arrive at the music mansion where presenter Lauren Platt reveals the exciting prize that awaits at the end of the competition."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06vrv11",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "11 mins",
+              "value": "PT11M"
+            },
+            "availability": {
+              "end": "2016-02-09T11:35:00Z",
+              "start": "2016-01-06T17:05:00Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "credits_start": 2150,
+            "first_broadcast": "4:30pm 6 Jan 2016"
+          }
+        ],
+        "parent_id": "b06vtdtp",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "series",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "6 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 1,
+        "release_date_time": "2016-01-06T00:00:00.000Z",
+        "lexical_sort_letter": "G",
+        "promoted": true
+      },
+      {
+        "id": "b06vrtl4",
+        "type": "episode",
+        "title": "Millie Inbetween",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cvzgb.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06qbvnv",
+        "guidance": false,
+        "subtitle": "Series 2: 5. The Guitar Hero",
+        "synopses": {
+          "large": "Millie is looking forward to going ice skating and getting some rare one-on-one time with her dad. Jake's feeling the same - his real dad is putting in an all-too-rare appearance to take him to the air guitar championships! But Amber and Fran know how unreliable he is, and they're proved right when he lets Jake down at the last minute. Jake's gutted, and Dad is torn - should he step in, even though it means letting Millie down again? Meanwhile, Craig and Millie are desperate to meet their heroes at a comics convention - and there's a single ticket up for grabs...",
+          "small": "Jake is upset when his dad cancels their plans at the last minute.",
+          "medium": "Comedy drama series. Jake's dad plans to make a rare appearance and take him to the air guitar championships. But he lets Jake down at the last minute."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06vrqsz",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-04T17:00:00Z",
+              "start": "2016-01-05T17:00:00Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "credits_start": 1557,
+            "first_broadcast": "4:30pm 5 Jan 2016"
+          }
+        ],
+        "parent_id": "b06qbvpg",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "5 Jan 2016",
+        "related_links": [],
+        "next_broadcast": {
+          "channel_title": "CBBC",
+          "scheduled_start": "2016-01-16T12:45:00.000Z"
+        },
+        "audio_described": false,
+        "parent_position": 5,
+        "release_date_time": "2016-01-05T00:00:00.000Z",
+        "lexical_sort_letter": "M",
+        "promoted": true
+      },
+      {
+        "id": "b06kybnw",
+        "type": "group_large",
+        "stacked": true,
+        "title": "Scream Street",
+        "synopses": {
+          "small": "Animated series. After becoming a werewolf, Luke moves to a community for monsters.",
+          "medium": "Animated series. After becoming a werewolf, Luke moves to Scream Street with his family, where vampires, zombies and all kinds of monsters live together."
+        },
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p037pfsx.jpg",
+          "vertical": "http://ichef.bbci.co.uk/images/ic/{recipe}/p037pfyq.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "group_type": "tleo",
+        "count": 13,
+        "initial_children": [
+          {
+            "id": "b06tl94k",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bgxml.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "13. Mother of All Scares",
+            "synopses": {
+              "large": "Luke goes home to find Otto there and it turns out he has moved in! Why he is there and, more importantly, how will he get rid of him? It turns out Otto fled Sneer Hall to escape a visiting relative with a bit of a temper, but when Luke brings her round to visit Otto so that the two can reconcile, things don't quite go to plan.",
+              "small": "Luke goes home to find that Otto has moved in after fleeing Sneer Hall.",
+              "medium": "Animated series. Luke goes home to find that Otto has moved in after fleeing Sneer Hall to escape a visiting relative with a bit of a temper."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06tl946",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-02-02T15:20:00Z",
+                  "start": "2015-12-19T15:20:00Z",
+                  "remaining": {
+                    "text": "Available for 21 days"
+                  }
+                },
+                "first_broadcast": "3:10pm 19 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "19 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 13,
+            "release_date_time": "2015-12-19T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06ss6fy",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bd03w.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "12. Zombie Derby",
+            "synopses": {
+              "large": "Every year Scream Street stages a Zombie Derby, which involves the parents teaming up with their children to make homemade zombie go-karts for a race-off! But tensions rise when Luke teams up with Resus's dad and Resus with Luke's mum, whilst Otto is determined that his Dixon-driven kart will win at any cost. Can the boys overcome their differences, or will Otto take the crown?",
+              "small": "Luke teams up with Resus's dad and Resus with Luke's mum for Screan Street's go-kart race.",
+              "medium": "Animated series. The parents of Scream Street team up with their children to make homemade zombie go-karts for a race-off."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06ss26v",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-02-01T15:20:00Z",
+                  "start": "2015-12-17T15:40:00Z",
+                  "remaining": {
+                    "text": "Available for 20 days"
+                  }
+                },
+                "first_broadcast": "3:25pm 17 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "17 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 12,
+            "release_date_time": "2015-12-17T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06ss5pc",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bcq3f.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "11. The Brown Lagoon",
+            "synopses": {
+              "large": "Mr Watson is still terrified of the monsters in Scream Street, so Luke and Mrs Watson decide to take him on a get-away-from-it-all relaxing weekend camping. But things are far from peaceful as a rather terrifying monster emerges from the nearby lagoon. Luke goes wolf to protect his family but this time there is a very good reason why Luke shouldn't tear this monster from limb to limb. Will Luke's friends be able to prevent this happening in time?",
+              "small": "Luke and the Watsons go camping, but a terrifying monster emerges from a nearby lagoon.",
+              "medium": "Animated series. Mr Watson is still terrified of the monsters in Scream Street, so Luke and Mrs Watson decide to take him on a relaxing weekend camping."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06ss1yq",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-01-31T15:20:00Z",
+                  "start": "2015-12-16T15:40:00Z",
+                  "remaining": {
+                    "text": "Available for 19 days"
+                  }
+                },
+                "first_broadcast": "3:25pm 16 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "16 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 11,
+            "release_date_time": "2015-12-16T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06ss3j2",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bcp4k.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "10. The Creepy Creeper",
+            "synopses": {
+              "large": "Animated series. Luke never thinks about others and forgets to get his mum a birthday present. Knowing she is into gardening, he digs up a beautiful flower from the woods. The strange plant grows rapidly and begins to overtake the garden, trapping the Watsons. Luke and his friends must think fast before the plant takes over the whole town.",
+              "small": "Luke gives his mum a plant for her birthday, which grows rapidly and overtakes the garden.",
+              "medium": "Animated series. Luke gives his mum a very strange plant for her birthday, which grows rapidly and begins to overtake the garden."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06ss1tk",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-01-30T15:20:00Z",
+                  "start": "2015-12-15T15:40:00Z",
+                  "remaining": {
+                    "text": "Available for 18 days"
+                  }
+                },
+                "first_broadcast": "3:25pm 15 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "15 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 10,
+            "release_date_time": "2015-12-15T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06ss1f0",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bc728.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "9. Heartbreak Heist",
+            "synopses": {
+              "large": "When Otto learns that the Farr family treasure lies buried somewhere beneath Scream Street, he forces Cleo to help him find it - by holding her heart to ransom! Unfortunately, dim-witted Cleo's Dad has forgotten where the treasure is, so as everyone tries to find it, the situation becomes a race against time to save Cleo's heart.",
+              "small": "Otto forces Cleo to help him find the Farr family treasure.",
+              "medium": "Animated series. When Otto learns that the Farr family treasure lies buried somewhere beneath Scream Street, he forces Cleo to help him find it."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06ss06v",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-01-29T15:20:00Z",
+                  "start": "2015-12-14T15:40:00Z",
+                  "remaining": {
+                    "text": "Available for 17 days"
+                  }
+                },
+                "first_broadcast": "3:25pm 14 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "14 Dec 2015",
+            "related_links": [],
+            "next_broadcast": {
+              "channel_title": "CBBC",
+              "scheduled_start": "2016-01-16T12:35:00.000Z"
+            },
+            "audio_described": false,
+            "parent_position": 9,
+            "release_date_time": "2015-12-14T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06s67cr",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039tc6p.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "8. Banished!",
+            "synopses": {
+              "large": "Otto plots to build himself a luxury home, which would mean forcing the Scream Street residents to live in tents. Luke finds out so Otto needs to think quick to stop his secret spreading. When Luke goes wolf the evil mayor sets Luke up as a terrible danger to his family and Luke decides to banish himself to the Underlands! Can his friends figure out Otto's plan in time to save Luke?",
+              "small": "When Luke goes wolf the evil mayor sets Luke up to look like a danger to his family.",
+              "medium": "Animated series. Otto plots to build himself a luxury home, which would mean forcing the Scream Street residents to live in tents."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06s66j8",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-02-09T08:25:00Z",
+                  "start": "2015-12-29T15:20:00Z",
+                  "remaining": {
+                    "text": "Available for 27 days"
+                  }
+                },
+                "first_broadcast": "5pm 9 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "9 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 8,
+            "release_date_time": "2015-12-09T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06rk393",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039193j.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "7. Mirror Mirror",
+            "synopses": {
+              "large": "Resus feels like he's the family embarrassment, and wishes he was the vampire his parents dreamed of. His parents are even taking down all the mirrors in the house because it's always awkward when relatives notice he has a reflection! Resus joins his friends one night in the graveyard, only to fall into a hidden crypt full of mirrors. His reflection offers to change everything - but Resus ends up trapped and his evil doppleganger sets out to make some big changes of his own.",
+              "small": "Resus feels like he's the family embarrassment and wants his parents to be proud of him.",
+              "medium": "Animated series. Resus feels like he's the family embarrassment - it's always awkward when relatives notice he has a reflection!"
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06rk1xm",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-01-27T15:20:00Z",
+                  "start": "2015-12-28T15:20:00Z",
+                  "remaining": {
+                    "text": "Available for 15 days"
+                  }
+                },
+                "first_broadcast": "5pm 2 Dec 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "2 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 7,
+            "release_date_time": "2015-12-02T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          },
+          {
+            "id": "b06qztn5",
+            "type": "episode",
+            "title": "Scream Street",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p038bqnl.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b06kybnw",
+            "guidance": false,
+            "subtitle": "6. Zoo of the Weird",
+            "synopses": {
+              "large": "Otto is dabbling in the black-market trade and selling expensive safari tickets to Scream Street. When zoo owner Carla Black comes to catch specimens for her zoo of the weird, she soon has her eye on the werewolf. Will Resus and Cleo be able to save Luke from being hunted down and taken back to the normal world?",
+              "small": "Zoo owner Carla Black comes to Scream Street to catch specimens.",
+              "medium": "Animated series. Zoo owner Carla Black comes to catch specimens for her zoo of the weird and she soon has her eye on Luke."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06qzt30",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "11 mins",
+                  "value": "PT11M"
+                },
+                "availability": {
+                  "end": "2016-01-26T15:20:00Z",
+                  "start": "2015-12-27T15:20:00Z",
+                  "remaining": {
+                    "text": "Available for 14 days"
+                  }
+                },
+                "first_broadcast": "5pm 25 Nov 2015"
+              }
+            ],
+            "parent_id": "b06kybnw",
+            "suppliers": [],
+            "tleo_type": "series",
+            "categories": [
+              "cbbc"
+            ],
+            "master_brand": {
+              "id": "cbbc",
+              "titles": {
+                "large": "CBBC",
+                "small": "CBBC",
+                "medium": "CBBC"
+              },
+              "ident_id": "p00pvbn6",
+              "attribution": "cbbc"
+            },
+            "release_date": "25 Nov 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 6,
+            "release_date_time": "2015-11-25T00:00:00.000Z",
+            "lexical_sort_letter": "S"
+          }
+        ]
+      },
+      {
+        "id": "b06vrtl6",
+        "type": "episode",
+        "title": "Our School",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cw0fg.jpg"
+        },
+        "labels": {
+          "editorial": "New Series"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06vrs3y",
+        "guidance": false,
+        "subtitle": "Series 2: 1. New Starts",
+        "synopses": {
+          "large": "The second series of CBBC's fly-on-the-wall documentart lifts the lid on all the fun and challenges for the students of Year 7 - the first big year in secondary school. This time round, we are in a suburb of Birmingham, following the second half of the school year, from January to June.\n\nWe meet the staff and students in the second term of Year 7. Newly arrived Eesa doesn't speak a word of English - and he's never been to school before either. How will he settle in? Eesa is joined by another new boy, Archie. But Archie has one major advantage, that one of his best friends, Spencer, already goes to the school and is on hand to show him the ropes.",
+          "small": "Newly arrived Eesa tries to settle in, despite not speaking a word of English.",
+          "medium": "Documentary series following Year 7 students. Newly arrived Eesa doesn't speak a word of English - and has never been to school before either. How will he settle in?"
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06vrs4d",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-04T17:30:00Z",
+              "start": "2016-01-05T17:30:00Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "first_broadcast": "5pm 5 Jan 2016"
+          },
+          {
+            "hd": false,
+            "id": "p03dnjrb",
+            "kind": "audio-described",
+            "type": "version",
+            "download": false,
+            "duration": {
+              "text": "28 mins",
+              "value": "PT28M"
+            },
+            "availability": {
+              "end": "2016-02-04T17:30:00Z",
+              "start": "2016-01-05T17:46:57Z",
+              "remaining": {
+                "text": "Available for 23 days"
+              }
+            },
+            "first_broadcast": "5 Jan 2016"
+          }
+        ],
+        "parent_id": "b06vrs4b",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "cbbc",
+          "documentaries"
+        ],
+        "master_brand": {
+          "id": "cbbc",
+          "titles": {
+            "large": "CBBC",
+            "small": "CBBC",
+            "medium": "CBBC"
+          },
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc"
+        },
+        "release_date": "5 Jan 2016",
+        "related_links": [],
+        "next_broadcast": {
+          "channel_title": "CBBC",
+          "scheduled_start": "2016-01-16T13:50:00.000Z"
+        },
+        "audio_described": true,
+        "parent_position": 1,
+        "release_date_time": "2016-01-05T00:00:00.000Z",
+        "lexical_sort_letter": "O",
+        "promoted": true
+      },
+      {
+        "id": "b01qm9wf",
+        "type": "episode",
+        "title": "M.I. High",
+        "lexical_sort_letter": "M",
+        "synopses": {
+          "small": "St Heart's school is chosen by a celebrity chef as a test bed for his new health drink.",
+          "medium": "Children's spy drama. A celebrity chef chooses the school to launch his new health drink, but Aneisha discovers that it makes everyone operate with a hive mind.",
+          "large": "On a campaign to get kids eating more healthily, St Heart's school is chosen by celebrity chef Jimmy Jubbly as a test bed for his new health drink - Jubblyade. But Aneisha is quick to discover that it is affecting everyone's behaviour and making them operate with a hive mind. Under threat from her own team mates, can Aneisha single-handedly stop the teens of the nation from wreaking havoc countrywide?"
+        },
+        "tleo_id": "b006v8z9",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01j2b6x.jpg",
+          "type": "image"
+        },
+        "related_links": [
+          {
+            "id": "p015fzjq",
+            "type": "link",
+            "kind": "priority_content",
+            "title": "Blue Peter: Project Petra",
+            "url": "http://www.bbc.co.uk/cbbc/articles/bp-project-petra"
+          }
+        ],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 6: 6. The Hive",
+        "release_date": "28 Jan 2013",
+        "release_date_time": "2013-01-28T00:00:00.000Z",
+        "parent_id": "b01pz8nc",
+        "parent_position": 6,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b01qm9w9",
+            "hd": true,
+            "download": true,
+            "availability": {
+              "start": "2016-01-11T09:50:00Z",
+              "end": "2016-02-10T12:30:00Z",
+              "remaining": {
+                "text": "Available for 29 days"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT30M",
+              "text": "30 mins"
+            },
+            "first_broadcast": "5:15pm 28 Jan 2013"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": false,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b06ss7yy",
+        "type": "episode",
+        "title": "The Next Step",
+        "lexical_sort_letter": "N",
+        "synopses": {
+          "small": "The Next Step battles for the title of international champion.",
+          "medium": "Reality-style drama. The Next Step battles for the title of international champion against the team from Sweden. James and Riley put everything on the line.",
+          "large": "Reality-style drama following the lives of a group of dancers at the Next Step Dance Studio. The Next Step battles for the title of international champion against the team from Sweden. James and Riley put everything on the line to give their team a chance at winning."
+        },
+        "tleo_id": "b05qvqn5",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bcyk4.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "Series 3: 30. How It Ends",
+        "release_date": "18 Dec 2015",
+        "release_date_time": "2015-12-18T00:00:00.000Z",
+        "parent_id": "b068570q",
+        "parent_position": 30,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b06ss7rl",
+            "hd": true,
+            "download": true,
+            "availability": {
+              "start": "2015-12-18T17:20:00Z",
+              "end": "2016-02-02T11:15:00Z",
+              "remaining": {
+                "text": "Available for 21 days"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT22M",
+              "text": "22 mins"
+            },
+            "first_broadcast": "4:45pm 18 Dec 2015",
+            "credits_start": 1267
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": false,
+        "guidance": false,
+        "suppliers": []
+      },
+      {
+        "id": "b0622bjt",
+        "type": "episode",
+        "title": "Hetty Feather",
+        "lexical_sort_letter": "H",
+        "synopses": {
+          "small": "The gang try to expose Matron's true intentions behind Hetty's planned trip to India.",
+          "medium": "Drama series set in Victorian-era London. When Hetty finally escapes from the hospital, Matron goes on the warpath and thinks she knows where to find her.",
+          "large": "With Hetty finally escaped from the hospital in search of Madam Adeline, Matron is on the warpath and thinks she knows where to find the escaped girl. In the meantime, the gang come together to try to expose Matron's true intentions behind Hetty's planned trip to India. But can they get to the truth in time and will Cranbourne believe them?"
+        },
+        "tleo_id": "b05vt97h",
+        "tleo_type": "series",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02w3knw.jpg",
+          "type": "image"
+        },
+        "related_links": [],
+        "categories": [
+          "cbbc"
+        ],
+        "subtitle": "10. Open Day Part 2",
+        "release_date": "6 Jul 2015",
+        "release_date_time": "2015-07-06T00:00:00.000Z",
+        "parent_id": "b05vt97h",
+        "parent_position": 10,
+        "master_brand": {
+          "id": "cbbc",
+          "ident_id": "p00pvbn6",
+          "attribution": "cbbc",
+          "titles": {
+            "small": "CBBC",
+            "medium": "CBBC",
+            "large": "CBBC"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b0622bf0",
+            "hd": true,
+            "download": true,
+            "availability": {
+              "start": "2016-01-10T17:45:00Z",
+              "end": "2016-02-09T17:45:00Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT28M",
+              "text": "28 mins"
+            },
+            "first_broadcast": "4:30pm 6 Jul 2015"
+          },
+          {
+            "type": "version",
+            "id": "p02wg0sn",
+            "hd": false,
+            "download": false,
+            "availability": {
+              "start": "2016-01-10T18:11:49Z",
+              "end": "2016-02-09T17:45:00Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "kind": "audio-described",
+            "duration": {
+              "value": "PT28M",
+              "text": "28 mins"
+            },
+            "first_broadcast": "6 Jul 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": true,
+        "guidance": false,
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ]
+      }
+    ]
+  }
+}

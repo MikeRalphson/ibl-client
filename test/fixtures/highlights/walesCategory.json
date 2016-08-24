@@ -1,0 +1,1674 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "category_highlights": {
+    "category": {
+      "id": "wales",
+      "title": "Wales",
+      "type": "category",
+      "kind": "national",
+      "child_episode_count": 713
+    },
+    "elements": [
+      {
+        "id": "b06v9vkd",
+        "type": "episode",
+        "title": "Hinterland",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dk4np.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03sgfbz",
+        "guidance": true,
+        "subtitle": "Series 2: Episode 3 - Part 1",
+        "synopses": {
+          "large": "The discovery of a body in a remote lake leads Mathias and the team to investigate the complicated private life of a teacher missing from a small rural school. \n\nWhat is Gwilym's secret? Who is Ben Willis? Why did another ex-teacher commit suicide? Who is the mysterious girl and why is she hiding from Mathias? Is Greta still alive? This is a world rife with secrets. Will Mathias and the team unravel them in time or is it already too late?",
+          "small": "Mathias and the team investigate the complicated private life of a missing teacher.",
+          "medium": "Detective drama. The discovery of a body in a remote lake leads Mathias and the team to investigate the complicated private life of a teacher missing from a small rural school."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06yb941",
+            "kind": "editorial",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "guidance": {
+              "id": "D3",
+              "text": {
+                "large": "Contains scenes which some viewers may find disturbing.",
+                "small": "Has guidance",
+                "medium": "Contains disturbing scenes."
+              }
+            },
+            "availability": {
+              "end": "2016-02-05T22:00:00Z",
+              "start": "2016-01-06T22:00:00Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "first_broadcast": "6 Jan 2016"
+          }
+        ],
+        "parent_id": "b06v9jtt",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "drama-crime",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "6 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 3,
+        "release_date_time": "2016-01-06T00:00:00.000Z",
+        "lexical_sort_letter": "H",
+        "promoted": true
+      },
+      {
+        "id": "b06v9vkg",
+        "type": "episode",
+        "title": "Hinterland",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dk4q9.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03sgfbz",
+        "guidance": true,
+        "subtitle": "Series 2: Episode 3 - Part 2",
+        "synopses": {
+          "large": "The discovery of a body in a remote lake leads Mathias and the team to investigate the complicated private life of a missing teacher from a small rural school. \n\nWhat is Gwilym's secret? Who is Ben Willis? Why did another ex-teacher commit suicide? Who is the mysterious girl and why is she hiding from Mathias? Is Greta still alive? This is a world rife with secrets. Will Mathias and the team unravel them in time or is it already too late?",
+          "small": "Mathias and the team investigate the complicated private life of a missing teacher.",
+          "medium": "The detective drama continues as Mathias and the team investigate the complicated private life of a teacher missing from a small rural school."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06yb574",
+            "kind": "editorial",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "35 mins",
+              "value": "PT35M"
+            },
+            "guidance": {
+              "id": "D3",
+              "text": {
+                "large": "Contains scenes which some viewers may find disturbing.",
+                "small": "Has guidance",
+                "medium": "Contains disturbing scenes."
+              }
+            },
+            "availability": {
+              "end": "2016-02-05T23:10:00Z",
+              "start": "2016-01-06T23:10:00Z",
+              "remaining": {
+                "text": "Available for 24 days"
+              }
+            },
+            "credits_start": 1644,
+            "first_broadcast": "6 Jan 2016"
+          }
+        ],
+        "parent_id": "b06v9jtt",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "drama-and-soaps",
+          "drama-crime",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "6 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 4,
+        "release_date_time": "2016-01-06T00:00:00.000Z",
+        "lexical_sort_letter": "H",
+        "promoted": true
+      },
+      {
+        "id": "b06w4tsl",
+        "type": "episode",
+        "title": "Match of the Day Wales",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01lcqtp.jpg",
+          "inherited_from": "brand"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b0092qx1",
+        "guidance": false,
+        "subtitle": "2015/2016: 2. Oxford Utd v Swansea City",
+        "synopses": {
+          "small": "Coverage from the FA Cup third round as Oxford United host Swansea City.",
+          "medium": "Jason Mohammad introduces live coverage from the FA Cup third round as Oxford United host Swansea City at the Kassam Stadium. Studio guest is Iwan Roberts."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06w4tb0",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "135 mins",
+              "value": "PT2H15M"
+            },
+            "availability": {
+              "end": "2016-02-09T14:00:00Z",
+              "start": "2016-01-10T16:59:15Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "first_broadcast": "11:45am 10 Jan 2016"
+          }
+        ],
+        "parent_id": "b06phssv",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "10 Jan 2016",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 2,
+        "release_date_time": "2016-01-10T00:00:00.000Z",
+        "lexical_sort_letter": "M",
+        "promoted": true
+      },
+      {
+        "id": "b06w4vs1",
+        "type": "episode",
+        "title": "Scrum V Sunday",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01tcs6q.jpg",
+          "inherited_from": "brand"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03bkhtx",
+        "guidance": false,
+        "subtitle": "2015/2016: 10/01/2016",
+        "synopses": {
+          "small": "Ross Harries presents highlights of all the weekend's Pro 12 action.",
+          "medium": "Ross Harries presents highlights of all the weekend's Pro 12 action. Studio guests include former Wales internationals Jonathan Davies, Martyn Williams and Ryan Jones."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06w4vrm",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "44 mins",
+              "value": "PT44M"
+            },
+            "availability": {
+              "end": "2016-02-09T17:45:00Z",
+              "start": "2016-01-10T19:12:03Z",
+              "remaining": {
+                "text": "Available for 28 days"
+              }
+            },
+            "first_broadcast": "5pm 10 Jan 2016"
+          }
+        ],
+        "parent_id": "b06b9tpj",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "10 Jan 2016",
+        "related_links": [
+          {
+            "id": "p01ydw0l",
+            "url": "http://www.bbc.co.uk/programmes/b006mwb6",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "More from the Scrum V team"
+          }
+        ],
+        "audio_described": false,
+        "release_date_time": "2016-01-10T00:00:00.000Z",
+        "lexical_sort_letter": "S",
+        "promoted": true
+      },
+      {
+        "id": "b03sgfbz",
+        "type": "group_large",
+        "group_type": "tleo",
+        "stacked": true,
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03c7rkw.jpg",
+          "vertical": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03c7rlb.jpg"
+        },
+        "episode_sort_direction": "asc",
+        "related_links": [],
+        "title": "Hinterland",
+        "synopses": {
+          "small": "Detective drama series set in Aberystwyth against the backdrop of mountainous terrain",
+          "medium": "Detective drama series set in Aberystwyth against the backdrop of mountainous terrain, isolated farms and close-knit villages. Starring Richard Harrington as DCI Tom Mathias."
+        },
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "attribution": "bbc_one_wales",
+          "titles": {
+            "small": "BBC One",
+            "medium": "BBC One Wales",
+            "large": "BBC One Wales"
+          }
+        },
+        "count": 5,
+        "initial_children": [
+          {
+            "id": "b06t4lqk",
+            "type": "episode",
+            "title": "Hinterland",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bmm45.jpg"
+            },
+            "labels": {
+              "editorial": "New Series"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b03sgfbz",
+            "guidance": true,
+            "subtitle": "Series 2 (full length): Episode 1",
+            "synopses": {
+              "large": "In this new series, Mathias is under pressure. Meg Mathias, his wife, has turned up in Aberystwyth, and he's under investigation by the IPCC following the death of Mari Davies in the last episode. When a bus driver's body is found shot on an isolated mountainside, the investigation provides a welcome escape for DCI Mathias. The team have a suspect to question, but Mathias believes he is an unlikely killer. In his current state of mind, Mathias is fascinated by the lifestyle choices taken by ex-soldier John Bell. He also knows that he cannot avoid Meg for much longer.",
+              "small": "Mathias finds himself under investigation by the IPCC.",
+              "medium": "Detective drama. Following the death of Mari Davies in his last case, Mathias is under investigation by the IPCC. But the murder of a bus driver proves a welcome escape for him."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06t4jjh",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "90 mins",
+                  "value": "PT1H30M"
+                },
+                "guidance": {
+                  "id": "D1",
+                  "text": {
+                    "large": "Contains some scenes which some viewers may find upsetting.",
+                    "small": "Has guidance",
+                    "medium": "Contains some upsetting scenes."
+                  }
+                },
+                "availability": {
+                  "end": "2016-01-22T23:00:00Z",
+                  "start": "2015-12-23T23:00:00Z",
+                  "remaining": {
+                    "text": "Available for 10 days"
+                  }
+                },
+                "credits_start": 5316,
+                "first_broadcast": "9:30pm 23 Dec 2015"
+              }
+            ],
+            "parent_id": "b06t4v68",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "brand",
+            "categories": [
+              "drama-and-soaps",
+              "drama-crime",
+              "wales"
+            ],
+            "master_brand": {
+              "id": "bbc_one_wales",
+              "titles": {
+                "large": "BBC One Wales",
+                "small": "BBC One",
+                "medium": "BBC One Wales"
+              },
+              "attribution": "bbc_one_wales"
+            },
+            "release_date": "23 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 1,
+            "release_date_time": "2015-12-23T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b06xyjb7",
+            "type": "episode",
+            "title": "Hinterland",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dcfmc.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b03sgfbz",
+            "guidance": true,
+            "subtitle": "Series 2: Episode 2 - Part 1",
+            "synopses": {
+              "large": "The murder of a local dignitary and barrister leads to the uncovering of a tragic story of love and loss fuelled by mistrust and suspicion in the depths of the Hinterland. Why were Nora and Daniel living such a secluded life? What has Mathias discovered in the garden? Will he find Daniel before Glyn Powell gets hold of him? The clock is ticking, but Mathias knows that the relationship between Branwen Powell and Daniel is key to uncovering the truth.",
+              "small": "The murder of a local dignitary and barrister leads to the uncovering of a tragic story.",
+              "medium": "Detective drama. The murder of a local dignitary and barrister leads to the uncovering of a tragic story. Why were Nora and Daniel living such a secluded life?"
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06xyj1w",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "60 mins",
+                  "value": "PT1H"
+                },
+                "guidance": {
+                  "id": "D1",
+                  "text": {
+                    "large": "Contains some scenes which some viewers may find upsetting.",
+                    "small": "Has guidance",
+                    "medium": "Contains some upsetting scenes."
+                  }
+                },
+                "availability": {
+                  "end": "2016-01-29T22:00:00Z",
+                  "start": "2015-12-30T22:00:00Z",
+                  "remaining": {
+                    "text": "Available for 17 days"
+                  }
+                },
+                "first_broadcast": "9pm 30 Dec 2015"
+              }
+            ],
+            "parent_id": "b06v9jtt",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "brand",
+            "categories": [
+              "drama-and-soaps",
+              "drama-crime",
+              "wales"
+            ],
+            "master_brand": {
+              "id": "bbc_one_wales",
+              "titles": {
+                "large": "BBC One Wales",
+                "small": "BBC One",
+                "medium": "BBC One Wales"
+              },
+              "attribution": "bbc_one_wales"
+            },
+            "release_date": "30 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 2,
+            "release_date_time": "2015-12-30T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b06xyjb9",
+            "type": "episode",
+            "title": "Hinterland",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dcfdy.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b03sgfbz",
+            "guidance": true,
+            "subtitle": "Series 2: Episode 2 - Part 2",
+            "synopses": {
+              "large": "The murder of a local dignitary and barrister leads to the uncovering of a tragic story of love and loss fuelled by mistrust and suspicion in the depths of the Hinterland. Why were Nora and Daniel living such a secluded life? What has Mathias discovered in the garden? Will he find Daniel before Glyn Powell gets hold of him? The clock is ticking, but Mathias knows that the relationship between Branwen Powell and Daniel is key to uncovering the truth.",
+              "small": "The murder of a local dignitary and barrister leads to the uncovering of a tragic story.",
+              "medium": "Detective drama. The murder of a local dignitary and barrister leads to the uncovering of a tragic story. Why were Nora and Daniel living such a secluded life?"
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06xyj75",
+                "kind": "original",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "35 mins",
+                  "value": "PT35M"
+                },
+                "guidance": {
+                  "id": "D1",
+                  "text": {
+                    "large": "Contains some scenes which some viewers may find upsetting.",
+                    "small": "Has guidance",
+                    "medium": "Contains some upsetting scenes."
+                  }
+                },
+                "availability": {
+                  "end": "2016-01-29T23:00:00Z",
+                  "start": "2015-12-30T23:00:00Z",
+                  "remaining": {
+                    "text": "Available for 17 days"
+                  }
+                },
+                "first_broadcast": "10:25pm 30 Dec 2015"
+              }
+            ],
+            "parent_id": "b06v9jtt",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "brand",
+            "categories": [
+              "drama-and-soaps",
+              "drama-crime",
+              "wales"
+            ],
+            "master_brand": {
+              "id": "bbc_one_wales",
+              "titles": {
+                "large": "BBC One Wales",
+                "small": "BBC One",
+                "medium": "BBC One Wales"
+              },
+              "attribution": "bbc_one_wales"
+            },
+            "release_date": "30 Dec 2015",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 2,
+            "release_date_time": "2015-12-30T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b06v9vkd",
+            "type": "episode",
+            "title": "Hinterland",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dk4np.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b03sgfbz",
+            "guidance": true,
+            "subtitle": "Series 2: Episode 3 - Part 1",
+            "synopses": {
+              "large": "The discovery of a body in a remote lake leads Mathias and the team to investigate the complicated private life of a teacher missing from a small rural school. \n\nWhat is Gwilym's secret? Who is Ben Willis? Why did another ex-teacher commit suicide? Who is the mysterious girl and why is she hiding from Mathias? Is Greta still alive? This is a world rife with secrets. Will Mathias and the team unravel them in time or is it already too late?",
+              "small": "Mathias and the team investigate the complicated private life of a missing teacher.",
+              "medium": "Detective drama. The discovery of a body in a remote lake leads Mathias and the team to investigate the complicated private life of a teacher missing from a small rural school."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06yb941",
+                "kind": "editorial",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "60 mins",
+                  "value": "PT1H"
+                },
+                "guidance": {
+                  "id": "D3",
+                  "text": {
+                    "large": "Contains scenes which some viewers may find disturbing.",
+                    "small": "Has guidance",
+                    "medium": "Contains disturbing scenes."
+                  }
+                },
+                "availability": {
+                  "end": "2016-02-05T22:00:00Z",
+                  "start": "2016-01-06T22:00:00Z",
+                  "remaining": {
+                    "text": "Available for 24 days"
+                  }
+                },
+                "first_broadcast": "6 Jan 2016"
+              }
+            ],
+            "parent_id": "b06v9jtt",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "brand",
+            "categories": [
+              "drama-and-soaps",
+              "drama-crime",
+              "wales"
+            ],
+            "master_brand": {
+              "id": "bbc_one_wales",
+              "titles": {
+                "large": "BBC One Wales",
+                "small": "BBC One",
+                "medium": "BBC One Wales"
+              },
+              "attribution": "bbc_one_wales"
+            },
+            "release_date": "6 Jan 2016",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 3,
+            "release_date_time": "2016-01-06T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          },
+          {
+            "id": "b06v9vkg",
+            "type": "episode",
+            "title": "Hinterland",
+            "images": {
+              "type": "image",
+              "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03dk4q9.jpg"
+            },
+            "signed": false,
+            "status": "available",
+            "tleo_id": "b03sgfbz",
+            "guidance": true,
+            "subtitle": "Series 2: Episode 3 - Part 2",
+            "synopses": {
+              "large": "The discovery of a body in a remote lake leads Mathias and the team to investigate the complicated private life of a missing teacher from a small rural school. \n\nWhat is Gwilym's secret? Who is Ben Willis? Why did another ex-teacher commit suicide? Who is the mysterious girl and why is she hiding from Mathias? Is Greta still alive? This is a world rife with secrets. Will Mathias and the team unravel them in time or is it already too late?",
+              "small": "Mathias and the team investigate the complicated private life of a missing teacher.",
+              "medium": "The detective drama continues as Mathias and the team investigate the complicated private life of a teacher missing from a small rural school."
+            },
+            "versions": [
+              {
+                "hd": true,
+                "id": "b06yb574",
+                "kind": "editorial",
+                "type": "version",
+                "download": true,
+                "duration": {
+                  "text": "35 mins",
+                  "value": "PT35M"
+                },
+                "guidance": {
+                  "id": "D3",
+                  "text": {
+                    "large": "Contains scenes which some viewers may find disturbing.",
+                    "small": "Has guidance",
+                    "medium": "Contains disturbing scenes."
+                  }
+                },
+                "availability": {
+                  "end": "2016-02-05T23:10:00Z",
+                  "start": "2016-01-06T23:10:00Z",
+                  "remaining": {
+                    "text": "Available for 24 days"
+                  }
+                },
+                "credits_start": 1644,
+                "first_broadcast": "6 Jan 2016"
+              }
+            ],
+            "parent_id": "b06v9jtt",
+            "suppliers": [
+              {
+                "id": "bbc_store",
+                "title": "BBC Store"
+              }
+            ],
+            "tleo_type": "brand",
+            "categories": [
+              "drama-and-soaps",
+              "drama-crime",
+              "wales"
+            ],
+            "master_brand": {
+              "id": "bbc_one_wales",
+              "titles": {
+                "large": "BBC One Wales",
+                "small": "BBC One",
+                "medium": "BBC One Wales"
+              },
+              "attribution": "bbc_one_wales"
+            },
+            "release_date": "6 Jan 2016",
+            "related_links": [],
+            "audio_described": false,
+            "parent_position": 4,
+            "release_date_time": "2016-01-06T00:00:00.000Z",
+            "lexical_sort_letter": "H"
+          }
+        ]
+      },
+      {
+        "id": "b06vnfh6",
+        "type": "episode",
+        "title": "Scrum V Live Pro 12",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03f5j4q.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03bldyq",
+        "guidance": false,
+        "subtitle": "2015/2016: Ospreys v Leinster",
+        "synopses": {
+          "large": "The Ospreys welcome Leinster to the Liberty Stadium for this Pro 12 clash. Join Ross Harries, Jonathan Davies, Sean Holley and the Scrum V team for live coverage. \n\nThere is Welsh language commentary on the red button.",
+          "small": "Coverage of Ospreys v Leinster in the Pro 12.",
+          "medium": "Ross Harries presents live coverage as the Ospreys welcome Leinster to the Liberty Stadium in the Pro 12. Studio guests are Jonathan Davies and Sean Holley."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06vnfh3",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "149 mins",
+              "value": "PT2H29M"
+            },
+            "availability": {
+              "end": "2016-02-07T22:00:00Z",
+              "start": "2016-01-09T00:27:08Z",
+              "remaining": {
+                "text": "Available for 26 days"
+              }
+            },
+            "first_broadcast": "7:30pm 8 Jan 2016"
+          }
+        ],
+        "parent_id": "b0694cmw",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "8 Jan 2016",
+        "related_links": [
+          {
+            "id": "p01ydw7k",
+            "url": "http://www.bbc.co.uk/programmes/b006mwb6",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "More from the Scrum V team"
+          }
+        ],
+        "audio_described": false,
+        "release_date_time": "2016-01-08T00:00:00.000Z",
+        "lexical_sort_letter": "S",
+        "promoted": true
+      },
+      {
+        "id": "b06tm41f",
+        "type": "episode",
+        "title": "From Wales to Patagonia: A Musical Journey",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cc2x0.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06tm41f",
+        "guidance": false,
+        "synopses": {
+          "large": "The BBC National Orchestra of Wales is joined by world-renowned harpist Catrin Finch on an ambitious tour to inspire young musicians in the Welsh settlement of Patagonia.\n\nThey hope to crown a week of music-making with an historic performance in a converted wool warehouse - the first time a full international symphony orchestra has ever performed in the region. But it's a race against time to turn an old industrial shed into a worthy venue for a gala concert.",
+          "small": "The BBC National Orchestra of Wales and harpist Catrin Finch play a concert in Patagonia.",
+          "medium": "Documementary following the BBC National Orchestra of Wales and harpist Catrin Finch as they prepare for a historic concert in the Welsh settlement of Patagonia."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06tm3xl",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "39 mins",
+              "value": "PT39M"
+            },
+            "availability": {
+              "end": "2016-01-23T19:10:00Z",
+              "start": "2015-12-24T21:26:06Z",
+              "remaining": {
+                "text": "Available for 11 days"
+              }
+            },
+            "first_broadcast": "6:30pm 24 Dec 2015"
+          }
+        ],
+        "suppliers": [],
+        "tleo_type": "episode",
+        "categories": [
+          "arts",
+          "documentaries",
+          "documentaries-arts",
+          "documentaries-music",
+          "music",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "24 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "release_date_time": "2015-12-24T00:00:00.000Z",
+        "lexical_sort_letter": "F",
+        "promoted": true
+      },
+      {
+        "id": "b06ry4sq",
+        "type": "episode",
+        "title": "Coming Home",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039pwg9.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b0071nf4",
+        "guidance": false,
+        "subtitle": "Series 10: 4. Iwan Thomas",
+        "synopses": {
+          "large": "Former athlete and Strictly Come Dancing competitor Iwan Thomas makes an emotional journey in search of his Welsh ancestry, where he learns of his ancestor's life on a grand country estate, and of his great-great-grandfather's spectacular rags to riches story and the fortunes he made and lost in his lifetime.",
+          "small": "Iwan Thomas discovers his great-great-grandfather's spectacular rags to riches story.",
+          "medium": "Iwan Thomas traces his Welsh ancestry and discovers his great-great-grandfather's spectacular rags to riches story and the fortunes he made and lost in his lifetime."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06ry4jn",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "29 mins",
+              "value": "PT29M"
+            },
+            "availability": {
+              "end": "2016-01-17T21:00:00Z",
+              "start": "2015-12-18T22:41:33Z",
+              "remaining": {
+                "text": "Available until Sun 9pm"
+              }
+            },
+            "first_broadcast": "8:30pm 18 Dec 2015"
+          }
+        ],
+        "parent_id": "b06qzqm5",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "documentaries",
+          "documentaries-life-stories",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "18 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 4,
+        "release_date_time": "2015-12-18T00:00:00.000Z",
+        "lexical_sort_letter": "C",
+        "promoted": true
+      },
+      {
+        "id": "b06sw587",
+        "type": "episode",
+        "title": "Wales Arts Review",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03cnnb6.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06wqpr8",
+        "guidance": false,
+        "subtitle": "2015",
+        "synopses": {
+          "large": "Nicola Heywood Thomas presents the Wales Arts Review from Pontio, Bangor's long awaited arts and innovation centre. We take a look back at a busy twelve months in the world of Welsh art, theatre, literature and music.",
+          "small": "Nicola Heywood Thomas looks back at the past year of the arts in Wales.",
+          "medium": "Nicola Heywood Thomas is at the Pontio Arts and Innovation Centre to present a look back at the past year in the world of Welsh art, theatre, literature and music."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06ss5p9",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "40 mins",
+              "value": "PT40M"
+            },
+            "availability": {
+              "end": "2016-01-23T22:40:00Z",
+              "start": "2015-12-25T01:58:19Z",
+              "remaining": {
+                "text": "Available for 11 days"
+              }
+            },
+            "first_broadcast": "27 Dec 2015"
+          }
+        ],
+        "parent_id": "b06wqpr8",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "entertainment",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "27 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 2,
+        "release_date_time": "2015-12-27T00:00:00.000Z",
+        "lexical_sort_letter": "W",
+        "promoted": true
+      },
+      {
+        "id": "b06ry4sn",
+        "type": "episode",
+        "title": "Weatherman Walking",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039pf2q.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b006rh64",
+        "guidance": false,
+        "subtitle": "Series 9: 4. Menai Strait and Castell Coch",
+        "synopses": {
+          "large": "This week, Derek Brockway's walks are full of history and amazing building feats. First he's on the banks of the Menai Strait walking between two brilliant bridges, the Britannia Bridge and the Menai Suspension Bridge. His guides are local WI members, and it was on Anglesey that Britain's first ever WI meeting was held over 100 years ago. Later, Derek treks between two captivating castles, at Caerphilly and Castell Coch, and even gets a chance to dress up as a medieval knight.",
+          "small": "Derek Brockway enjoys two walks full of history and amazing building feats.",
+          "medium": "Derek Brockway undertakes rambles in Wales. He walks between the Britannia and Menai Suspension Bridges and treks between Caerphilly and Castell Coch."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06ry470",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2016-01-17T20:00:00Z",
+              "start": "2015-12-18T21:07:24Z",
+              "remaining": {
+                "text": "Available until Sun 8pm"
+              }
+            },
+            "first_broadcast": "7:30pm 18 Dec 2015"
+          }
+        ],
+        "parent_id": "b06r95vm",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "brand",
+        "categories": [
+          "lifestyle",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "18 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 4,
+        "release_date_time": "2015-12-18T00:00:00.000Z",
+        "lexical_sort_letter": "W",
+        "promoted": true
+      },
+      {
+        "id": "b06tm80y",
+        "type": "episode",
+        "title": "The Really Welsh Quiz",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bl751.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06tvmk0",
+        "guidance": false,
+        "subtitle": "1. Christmas",
+        "synopses": {
+          "large": "A festive quiz with a strong Welsh connection. Chris Corcoran is in the chair alongside team captains comedian Elis James and chair of Radio 4's The News Quiz, Miles Jupp. Joining Elis and Miles are Omar Hamdi, Connie Fisher, Matt Johnson and Lucie Jones.",
+          "small": "Quiz with Elis James, Miles Jupp, Omar Hamdi, Connie Fisher, Matt Johnson and Lucie Jones.",
+          "medium": "Chris Corcoran chairs a festive quiz with team captains Elis James and Miles Jupp. Joining Elis and Miles are Omar Hamdi, Connie Fisher, Matt Johnson and Lucie Jones."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06tm637",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "34 mins",
+              "value": "PT34M"
+            },
+            "availability": {
+              "end": "2016-01-20T21:00:00Z",
+              "start": "2015-12-21T22:12:12Z",
+              "remaining": {
+                "text": "Available for 8 days"
+              }
+            },
+            "first_broadcast": "8:30pm 21 Dec 2015"
+          }
+        ],
+        "parent_id": "b06tvmk0",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "series",
+        "categories": [
+          "comedy",
+          "comedy-panel-shows",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "21 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 1,
+        "release_date_time": "2015-12-21T00:00:00.000Z",
+        "lexical_sort_letter": "R",
+        "promoted": true
+      },
+      {
+        "id": "b06s6dq3",
+        "type": "episode",
+        "title": "Welsh Sports Review",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03c0zt7.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b04vxj49",
+        "guidance": false,
+        "subtitle": "2015",
+        "synopses": {
+          "large": "An action-packed review of the most magical and memorable moments from Welsh sport in 2015, from Welsh football's historic qualification for Euro 2016 to Welsh rugby's heroic World Cup win over England. Featuring Gethin Jones, Sarra Elgan, Dot Davies, Tom Cullen, Jamie Baulch and Jason Mohammad.",
+          "small": "A look back at the most magical and memorable moments from Welsh sport in 2015.",
+          "medium": "A look back at the most magical and memorable moments from Welsh sport in 2015. Featuring Gethin Jones, Sarra Elgan, Dot Davies, Tom Cullen, Jamie Baulch and Jason Mohammad."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06y09m1",
+            "kind": "editorial",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2016-01-31T17:05:00Z",
+              "start": "2016-01-01T18:03:49Z",
+              "remaining": {
+                "text": "Available for 19 days"
+              }
+            },
+            "first_broadcast": "18 Dec 2015"
+          },
+          {
+            "hd": false,
+            "id": "b06s6dpc",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "60 mins",
+              "value": "PT1H"
+            },
+            "availability": {
+              "end": "2016-01-17T22:00:00Z",
+              "start": "2015-12-18T23:09:18Z",
+              "remaining": {
+                "text": "Available until Sun 10pm"
+              }
+            },
+            "first_broadcast": "9pm 18 Dec 2015"
+          }
+        ],
+        "parent_id": "b04vxj49",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "18 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 6,
+        "release_date_time": "2015-12-18T00:00:00.000Z",
+        "lexical_sort_letter": "W",
+        "promoted": true
+      },
+      {
+        "id": "b06s69lb",
+        "type": "episode",
+        "title": "Wales in the Eighties",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039sg5v.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06r3gvq",
+        "guidance": false,
+        "subtitle": "4. The Fight for Survival",
+        "synopses": {
+          "large": "This is the powerful story of the struggle to save the heritage of Wales. In the 80s, the country was inspired by men and women who followed their dreams. Sharon Morgan became one of the stars of the new S4C, world champion surfer Linda Sharp helped clean up the Welsh coastline with the Surfers Against Sewage campaign, Richard Keen saved industrial relics like Blaenavon and turned them into world heritage sites, and Mike Peters and the Alarm helped bring the country together by releasing their albums in both English and Welsh. All these and others helped Wales overcome a painful industrial decline and face the future with confidence and pride.",
+          "small": "The struggle to save Wales's heritage following a painful industrial decline.",
+          "medium": "A look back at the 1980s. Spotlighting the efforts of those who struggled to save the heritage of Wales following a painful industrial decline."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06s69l7",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2016-01-14T23:10:00Z",
+              "start": "2015-12-16T00:10:47Z",
+              "remaining": {
+                "text": "Available until Thu 11:10pm"
+              }
+            },
+            "first_broadcast": "14 Dec 2015"
+          }
+        ],
+        "parent_id": "b06r3gvq",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "series",
+        "categories": [
+          "documentaries",
+          "history",
+          "documentaries-history",
+          "documentaries-life-stories",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "14 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 4,
+        "release_date_time": "2015-12-14T00:00:00.000Z",
+        "lexical_sort_letter": "W",
+        "promoted": true
+      },
+      {
+        "id": "b06tmfqc",
+        "type": "episode",
+        "title": "The Really Welsh Quiz",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p03bl7b0.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b06tvmk0",
+        "guidance": false,
+        "subtitle": "2. New Year",
+        "synopses": {
+          "large": "A festive comedy quiz with a strong Welsh connection. Chris Corcoran is in the chair alongside team captains comedian Elis James and chair of Radio 4's The News Quiz, Miles Jupp. Joining Elis and Miles to look back at 2015 and look forward to the year ahead are Behnaz Akhgar, Nicola Reynolds, Eggsy from GLC and Owen Money.",
+          "small": "Festive comedy quiz looking back at 2015 and looking forward to the year ahead.",
+          "medium": "Chris Corcoran chairs a festive comedy quiz alongside team captains Elis James and Miles Jupp. With guests Behnaz Akhgar, Nicola Reynolds, Eggsy from GLC and Owen Money."
+        },
+        "versions": [
+          {
+            "hd": true,
+            "id": "b06tmdf9",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "34 mins",
+              "value": "PT34M"
+            },
+            "availability": {
+              "end": "2016-01-27T21:05:00Z",
+              "start": "2015-12-28T21:58:10Z",
+              "remaining": {
+                "text": "Available for 15 days"
+              }
+            },
+            "first_broadcast": "8:30pm 28 Dec 2015"
+          }
+        ],
+        "parent_id": "b06tvmk0",
+        "suppliers": [
+          {
+            "id": "bbc_store",
+            "title": "BBC Store"
+          }
+        ],
+        "tleo_type": "series",
+        "categories": [
+          "comedy",
+          "comedy-panel-shows",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "28 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "parent_position": 2,
+        "release_date_time": "2015-12-28T00:00:00.000Z",
+        "lexical_sort_letter": "R",
+        "promoted": true
+      },
+      {
+        "id": "b06tpdd9",
+        "type": "episode",
+        "title": "Scrum V Live Pro 12",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02hwyqn.jpg",
+          "inherited_from": "brand"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03bldyq",
+        "guidance": false,
+        "subtitle": "2015/2016: Scarlets v Ospreys",
+        "synopses": {
+          "large": "It's a Christmas cracker of a Pro 12 Welsh derby as the Scarlets and the Ospreys battle it out to see who is best in the west. Martyn Williams, Jonathan Davies and the Scrum V team will be there with full coverage.",
+          "small": "Coverage of Scarlets v Ospreys in the Pro 12.",
+          "medium": "Live coverage as the Scarlets and the Ospreys go head to head in the Pro 12. With analysis from Martyn Williams and Jonathan Davies."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06tpdc8",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "145 mins",
+              "value": "PT2H25M"
+            },
+            "availability": {
+              "end": "2016-01-25T16:10:00Z",
+              "start": "2015-12-26T19:13:17Z",
+              "remaining": {
+                "text": "Available for 13 days"
+              }
+            },
+            "first_broadcast": "1:45pm 26 Dec 2015"
+          }
+        ],
+        "parent_id": "b0694cmw",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "26 Dec 2015",
+        "related_links": [
+          {
+            "id": "p01ydw7k",
+            "url": "http://www.bbc.co.uk/programmes/b006mwb6",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "More from the Scrum V team"
+          }
+        ],
+        "audio_described": false,
+        "release_date_time": "2015-12-26T00:00:00.000Z",
+        "lexical_sort_letter": "S",
+        "promoted": true
+      },
+      {
+        "id": "b06tpjrw",
+        "type": "episode",
+        "title": "Scrum V Live Pro 12",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p02hwyqn.jpg",
+          "inherited_from": "brand"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b03bldyq",
+        "guidance": false,
+        "subtitle": "2015/2016: Ospreys v Dragons",
+        "synopses": {
+          "large": "A Welsh derby to kick off the New Year, as the Ospreys take on the Dragons. Martyn Williams and Ian Gough join Ross Harries in studio, with commentary from Jonathan Davies and Gareth Charles.",
+          "small": "Coverage of Ospreys v Dragons in the Pro 12.",
+          "medium": "Ross Harries presents live coverage as the Ospreys take on the Dragons in the Pro 12. Studio guests are Martyn Williams and Ian Gough."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06tpj8v",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "140 mins",
+              "value": "PT2H20M"
+            },
+            "availability": {
+              "end": "2016-01-31T16:05:00Z",
+              "start": "2016-01-01T18:28:15Z",
+              "remaining": {
+                "text": "Available for 19 days"
+              }
+            },
+            "first_broadcast": "1:45pm 1 Jan 2016"
+          }
+        ],
+        "parent_id": "b0694cmw",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_two_wales_digital",
+          "titles": {
+            "large": "BBC Two Wales",
+            "small": "BBC Two",
+            "medium": "BBC Two Wales"
+          },
+          "attribution": "bbc_two_wales"
+        },
+        "release_date": "1 Jan 2016",
+        "related_links": [
+          {
+            "id": "p01ydw7k",
+            "url": "http://www.bbc.co.uk/programmes/b006mwb6",
+            "kind": "priority_content",
+            "type": "link",
+            "title": "More from the Scrum V team"
+          }
+        ],
+        "audio_described": false,
+        "release_date_time": "2016-01-01T00:00:00.000Z",
+        "lexical_sort_letter": "S",
+        "promoted": true
+      },
+      {
+        "id": "b06qsvgp",
+        "type": "episode",
+        "title": "Week In Week Out",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p0394j45.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b007hj4j",
+        "guidance": false,
+        "subtitle": "Learning How to Fake It",
+        "synopses": {
+          "large": "An undercover investigation into a scam where people are getting their hands on thousands of pounds of government cash in student loans and grants.",
+          "small": "How lessons are being offered to help people falsely claim student loans and grants.",
+          "medium": "An undercover investigation into a scam where people are getting their hands on thousands of pounds of government cash in student loans and grants."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "p03b2gdk",
+            "kind": "iplayer-version",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2016-12-05T11:00:00Z",
+              "start": "2015-12-04T18:00:32Z",
+              "remaining": {
+                "text": "Available for 10 months"
+              }
+            },
+            "first_broadcast": "1 Dec 2015"
+          }
+        ],
+        "parent_id": "b007hj4j",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "documentaries",
+          "news",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "1 Dec 2015",
+        "related_links": [],
+        "audio_described": false,
+        "release_date_time": "2015-12-01T00:00:00.000Z",
+        "lexical_sort_letter": "W",
+        "promoted": true
+      },
+      {
+        "id": "b06q6nq6",
+        "type": "episode",
+        "title": "Week In Week Out",
+        "images": {
+          "type": "image",
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p039cfn1.jpg"
+        },
+        "signed": false,
+        "status": "available",
+        "tleo_id": "b007hj4j",
+        "guidance": false,
+        "subtitle": "Rugby - Dirty Steroid Secret?",
+        "synopses": {
+          "large": "Does rugby have a hidden drug problem? From grassroots to semi-pro and between league and union, more rugby players are banned from playing than in any other sport. Week In Week Out investigates.",
+          "small": "Does rugby have a secret drug problem? The sport has more players banned than any other.",
+          "medium": "Week In Week Out investigates whether there is a widespread and hidden drug problem in rugby, with more players banned than in any other sport."
+        },
+        "versions": [
+          {
+            "hd": false,
+            "id": "b06q6nph",
+            "kind": "original",
+            "type": "version",
+            "download": true,
+            "duration": {
+              "text": "30 mins",
+              "value": "PT30M"
+            },
+            "availability": {
+              "end": "2016-11-28T17:00:00Z",
+              "start": "2015-11-25T00:45:28Z",
+              "remaining": {
+                "text": "Available for 10 months"
+              }
+            },
+            "first_broadcast": "10:40pm 24 Nov 2015"
+          }
+        ],
+        "parent_id": "b007hj4j",
+        "suppliers": [],
+        "tleo_type": "brand",
+        "categories": [
+          "documentaries",
+          "news",
+          "sport",
+          "wales"
+        ],
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "titles": {
+            "large": "BBC One Wales",
+            "small": "BBC One",
+            "medium": "BBC One Wales"
+          },
+          "attribution": "bbc_one_wales"
+        },
+        "release_date": "24 Nov 2015",
+        "related_links": [],
+        "audio_described": false,
+        "release_date_time": "2015-11-24T00:00:00.000Z",
+        "lexical_sort_letter": "W",
+        "promoted": true
+      },
+      {
+        "id": "b05tbhvf",
+        "type": "episode",
+        "title": "X-Ray",
+        "lexical_sort_letter": "X",
+        "synopses": {
+          "small": "All of Wales's best consumer stories with Lucy and Rhodri Owen.",
+          "medium": "In an election special, Lucy organises a pub quiz to test people's election general knowledge, Rhodri gets tips on becoming an MP and Rachel tries to explain some election jargon.",
+          "large": "X-Ray is back with an election special. Lucy organises a pub quiz in Ebbw Vale to test people's general election general knowledge, Rhodri gets a few top tips on what it would take for him to become an MP, and Rachel goes greyhound racing to try to explain some of that tricky election jargon."
+        },
+        "tleo_id": "b006sggm",
+        "tleo_type": "brand",
+        "images": {
+          "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p01lclyj.jpg",
+          "type": "image",
+          "inherited_from": "brand"
+        },
+        "related_links": [],
+        "categories": [
+          "wales"
+        ],
+        "subtitle": "04/05/2015",
+        "release_date": "4 May 2015",
+        "release_date_time": "2015-05-04T00:00:00.000Z",
+        "parent_id": "b006sggm",
+        "parent_position": 16,
+        "master_brand": {
+          "id": "bbc_one_wales",
+          "attribution": "bbc_one_wales",
+          "titles": {
+            "small": "BBC One",
+            "medium": "BBC One Wales",
+            "large": "BBC One Wales"
+          }
+        },
+        "versions": [
+          {
+            "type": "version",
+            "id": "b05tbhv6",
+            "hd": true,
+            "download": false,
+            "availability": {
+              "start": "2015-05-04T19:00:00Z",
+              "end": "2016-05-03T19:00:00Z",
+              "remaining": {
+                "text": "Available for 3 months"
+              }
+            },
+            "kind": "original",
+            "duration": {
+              "value": "PT30M",
+              "text": "30 mins"
+            },
+            "first_broadcast": "7:30pm 4 May 2015"
+          }
+        ],
+        "status": "available",
+        "signed": false,
+        "audio_described": false,
+        "guidance": false,
+        "suppliers": []
+      }
+    ]
+  }
+}

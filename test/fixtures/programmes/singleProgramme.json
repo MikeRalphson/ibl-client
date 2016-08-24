@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "schema": "/ibl/v1/schema/ibl.json",
+  "programmes": [
+    {
+      "id": "p022ktzy4",
+      "tleo_type": "episode",
+      "type": "programme_large",
+      "title": "A Passion For Churches",
+      "synopses": {
+        "small": "John Betjeman visits various churches in the Diocese of Norwich. (1974)",
+        "medium": "First transmitted in 1974, Sir John Betjeman visits and explains the architecture of various churches in the Diocese of Norwich.",
+        "large": "First transmitted in 1974, Sir John Betjeman, poet laureate, visits and explains the architecture of various churches in the Diocese of Norwich.\n\nAmong the churches he visits are Sandringham church on the Queen's private estate, the Holy House of Our Lady of Walsingham and Norwich Cathedral."
+      },
+      "images": {
+        "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p022kvf9.jpg",
+        "type": "image"
+      },
+      "lexical_sort_letter": "A",
+      "master_brand": {
+        "id": "bbc_webonly",
+        "attribution": "bbc",
+        "titles": {
+          "small": "BBC",
+          "medium": "BBC",
+          "large": "BBC"
+        }
+      },
+      "suppliers": [],
+      "categories": [
+        "arts",
+        "documentaries",
+        "documentaries-arts"
+      ],
+      "status": "available",
+      "count": 1,
+      "initial_children": [
+        {
+          "id": "p022ktzy",
+          "type": "episode",
+          "title": "A Passion For Churches",
+          "lexical_sort_letter": "A",
+          "synopses": {
+            "small": "John Betjeman visits various churches in the Diocese of Norwich. (1974)",
+            "medium": "First transmitted in 1974, Sir John Betjeman visits and explains the architecture of various churches in the Diocese of Norwich.",
+            "large": "First transmitted in 1974, Sir John Betjeman, poet laureate, visits and explains the architecture of various churches in the Diocese of Norwich.\n\nAmong the churches he visits are Sandringham church on the Queen's private estate, the Holy House of Our Lady of Walsingham and Norwich Cathedral."
+          },
+          "tleo_id": "p022ktzy",
+          "tleo_type": "episode",
+          "images": {
+            "standard": "http://ichef.bbci.co.uk/images/ic/{recipe}/p022kvf9.jpg",
+            "type": "image"
+          },
+          "related_links": [
+            {
+              "id": "p025x3s5",
+              "type": "link",
+              "kind": "priority_content",
+              "title": "John Betjeman Collection",
+              "url": "http://www.bbc.co.uk/iplayer/group/p025jt33"
+            }
+          ],
+          "categories": [
+            "arts",
+            "documentaries",
+            "documentaries-arts"
+          ],
+          "release_date": "7 Dec 1974",
+          "release_date_time": "1974-12-07T00:00:00.000Z",
+          "master_brand": {
+            "id": "bbc_webonly",
+            "attribution": "bbc",
+            "titles": {
+              "small": "BBC",
+              "medium": "BBC",
+              "large": "BBC"
+            }
+          },
+          "versions": [
+            {
+              "type": "version",
+              "id": "p022kv02",
+              "hd": false,
+              "download": false,
+              "availability": {
+                "start": "2014-08-28T11:00:00Z",
+                "remaining": {
+                  "text": "Available for over a year"
+                }
+              },
+              "kind": "iplayer-version",
+              "duration": {
+                "value": "PT49M",
+                "text": "49 mins"
+              },
+              "first_broadcast": "7 Dec 1974"
+            }
+          ],
+          "status": "available",
+          "signed": false,
+          "audio_described": false,
+          "labels": {
+            "editorial": "Archive"
+          },
+          "guidance": false,
+          "suppliers": []
+        }
+      ]
+    }
+  ]
+}

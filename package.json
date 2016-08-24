@@ -1,0 +1,41 @@
+{
+  "name": "ibl-client",
+  "version": "1.0.0",
+  "description": "Rest Client for the iPlayer Business Layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint .",
+    "coverage": "istanbul cover _mocha -- -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BBC/ibl-client.git"
+  },
+  "author": "ibl-team@lists.forge.bbc.co.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBC/ibl-client/issues"
+  },
+  "homepage": "https://github.com/BBC/ibl-client",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-iplayer-es6": "^1.2.0",
+    "istanbul": "^0.3.5",
+    "jshint": "^2.5.11",
+    "mocha": "^2.1.0",
+    "nock": "^3.5.0",
+    "sinon": "^1.12.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "catbox": "^7.1.0",
+    "catbox-redis": "^1.0.6",
+    "config": "^1.10.0",
+    "flashheart": "^1.2.0",
+    "lodash": "^3.10.1"
+  },
+  "eslintConfig": {
+    "extends": "iplayer-es6"
+  }
+}
