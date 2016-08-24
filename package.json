@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BBC/ibl-client.git"
+    "url": "https://github.com/MikeRalphson/ibl-client.git"
   },
   "author": "ibl-team@lists.forge.bbc.co.uk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BBC/ibl-client/issues"
+    "url": "https://github.com/MikeRalphson/ibl-client/issues"
   },
-  "homepage": "https://github.com/BBC/ibl-client",
+  "homepage": "https://github.com/MikeRalphson/ibl-client",
   "devDependencies": {
     "eslint": "^1.10.3",
     "eslint-config-iplayer-es6": "^1.2.0",
