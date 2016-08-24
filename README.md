@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npm install @ibl/client
+npm install ibl-client
 ```
 
 ## Usage
