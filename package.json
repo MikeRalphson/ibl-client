@@ -1,6 +1,6 @@
 {
   "name": "ibl-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rest Client for the iPlayer Business Layer",
   "main": "index.js",
   "scripts": {
