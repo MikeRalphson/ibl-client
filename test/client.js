@@ -130,7 +130,7 @@ describe('iPlayer Business Layer Client', () => {
       return assertResponse(response, expectedResponse.programmes);
     });
 
-    it('makes a request using the rigths query parameter', () => {
+    it('makes a request using the rights query parameter', () => {
       nock(baseUrl)
         .get('/programmes/p022ktzy3,b006wz6r3?availability=available&rights=tv')
         .reply(200, programmesResponse);
@@ -266,7 +266,7 @@ describe('iPlayer Business Layer Client', () => {
       });
     });
 
-    it('makes a request using the rigths query parameter', () => {
+    it('makes a request using the rights query parameter', () => {
       nock(baseUrl)
         .get('/categories/wales/programmes?rights=tv')
         .reply(200, programmesResponse);
@@ -472,7 +472,7 @@ describe('iPlayer Business Layer Client', () => {
       });
     });
 
-    it('makes a request using the rigths query parameter', () => {
+    it('makes a request using the rights query parameter', () => {
       nock(baseUrl)
         .get('/categories/wales/highlights?rights=tv')
         .reply(200, categoryHighlightsResponse);
@@ -527,7 +527,7 @@ describe('iPlayer Business Layer Client', () => {
       });
     });
 
-    it('makes a request using the rigths query parameter', () => {
+    it('makes a request using the rights query parameter', () => {
       nock(baseUrl)
         .get('/channels/cbbc/highlights?rights=tv')
         .reply(200, channelHighlightsResponse);
@@ -592,7 +592,7 @@ describe('iPlayer Business Layer Client', () => {
       });
     });
 
-    it('makes a request using the rigths query parameter', () => {
+    it('makes a request using the rights query parameter', () => {
       nock(baseUrl)
         .get('/home/highlights?rights=tv')
         .reply(200, homeHighlightsResponse);
@@ -738,7 +738,7 @@ describe('iPlayer Business Layer Client', () => {
       });
     });
 
-    it('makes a request using the rigths query parameter', () => {
+    it('makes a request using the rights query parameter', () => {
       nock(baseUrl)
         .get('/channels/cbbc/broadcasts?rights=tv')
         .reply(200, channelBroadcastsResponse);
