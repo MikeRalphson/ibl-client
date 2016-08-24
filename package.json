@@ -37,5 +37,11 @@
   },
   "eslintConfig": {
     "extends": "iplayer-es6"
-  }
+  },
+  "keywords": [
+    "bbc",
+    "api",
+    "iplayer",
+    "ibl"
+  ]
 }
